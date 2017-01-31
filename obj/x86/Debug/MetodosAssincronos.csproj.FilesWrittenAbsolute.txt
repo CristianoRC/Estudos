@@ -1,0 +1,5 @@
+/home/cristiano/Projetos/Aulas-Git/MetodosAssincronos/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristiano/Projetos/Aulas-Git/MetodosAssincronos/bin/Debug/MetodosAssincronos.exe.mdb
+/home/cristiano/Projetos/Aulas-Git/MetodosAssincronos/bin/Debug/MetodosAssincronos.exe
+/home/cristiano/Projetos/Aulas-Git/MetodosAssincronos/obj/x86/Debug/MetodosAssincronos.exe
+/home/cristiano/Projetos/Aulas-Git/MetodosAssincronos/obj/x86/Debug/MetodosAssincronos.exe.mdb
