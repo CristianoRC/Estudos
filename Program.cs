@@ -10,7 +10,8 @@ namespace MetodosAssincronos
 		{
 			ObterHTMLdoSite();
 		}
-
+		
+		//Teste git Pull
 		async static Task ObterHTMLdoSite()
 		{
 			HttpClient cliente = new HttpClient();
