@@ -1,0 +1,5 @@
+/home/cristiano/Projetos/Aulas-Git/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristiano/Projetos/Aulas-Git/bin/Release/MetodosAssincronos.exe
+/home/cristiano/Projetos/Aulas-Git/obj/x86/Release/MetodosAssincronos.exe
+/home/cristiano/Projetos/Aulas-Git/bin/Release/System.Net.Http.Extensions.dll
+/home/cristiano/Projetos/Aulas-Git/bin/Release/System.Net.Http.Primitives.dll
