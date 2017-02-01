@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Net.Http;
-using System.Threading.Tasks;
 
 namespace MetodosAssincronos
 {
@@ -8,14 +6,24 @@ namespace MetodosAssincronos
 	{
 		public static void Main(string[] args)
 		{
-			ObterHTMLdoSite();
-		}
-		
-		async static Task ObterHTMLdoSite()
-		{
-			HttpClient cliente = new HttpClient();
+			//Estado
+			DotCEP.Localidades.Estado.ObterNomeDoEstado("RS");
 
-			var resposta = await cliente.GetStringAsync("http://msn.com.br");
+			DotCEP.Localidades.Estado.ObterCodigoDoEstado("RS");
+
+			DotCEP.Localidades.Estado.ObterSiglaDoEstado("Rio Grande do Sul");
+
+
+			//Municipio
+			DotCEP.Localidades.Municipio.ObterCodigoDoMunicipio("Pelotas", DotCEP.UF.RS);
+
+			DotCEP.Localidades.Municipio.ObterInformacoesDoMunicipio(4314407);
+
+			DotCEP.Localidades.Municipio.ObterListaDeMunicipio(DotCEP.UF.RS);
+
+			DotCEP.Localidades.Municipio.ObterListaDeMunicipio();
+
+			DotCEP.Localidades.Municipio.ObterNomeDoMunicipio(4314407);
 		}
 	}
 }
