@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ImagensDB/ImagensDB.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImagensDB/Pessoa.cs">
+    <Files>
+      <File FileName="ImagensDB/Program.cs" Line="23" Column="13" />
+      <File FileName="ImagensDB/ConvertImagemBytes.cs" Line="7" Column="47" />
+      <File FileName="ImagensDB/Pessoa.cs" Line="12" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
