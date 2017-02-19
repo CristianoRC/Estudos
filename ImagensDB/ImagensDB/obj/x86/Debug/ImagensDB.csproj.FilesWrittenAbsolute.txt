@@ -1,8 +1,0 @@
-/home/cristiano/Projetos/Estudos/ImagensDB/ImagensDB/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/cristiano/Projetos/Estudos/ImagensDB/ImagensDB/bin/Debug/ImagensDB.exe.mdb
-/home/cristiano/Projetos/Estudos/ImagensDB/ImagensDB/bin/Debug/ImagensDB.exe
-/home/cristiano/Projetos/Estudos/ImagensDB/ImagensDB/obj/x86/Debug/ImagensDB.exe
-/home/cristiano/Projetos/Estudos/ImagensDB/ImagensDB/obj/x86/Debug/ImagensDB.exe.mdb
-/home/cristiano/Projetos/Estudos/ImagensDB/ImagensDB/bin/Debug/Spartacus.dll
-/home/cristiano/Projetos/Estudos/ImagensDB/ImagensDB/bin/Debug/Newtonsoft.Json.dll
-/home/cristiano/Projetos/Estudos/ImagensDB/ImagensDB/bin/Debug/DotCEP.dll
