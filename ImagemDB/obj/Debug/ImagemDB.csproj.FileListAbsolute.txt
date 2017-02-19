@@ -1,0 +1,9 @@
+c:\users\cristiano\documents\visual studio 2017\Projects\ImagemDB\ImagemDB\bin\Debug\ImagemDB.exe.config
+c:\users\cristiano\documents\visual studio 2017\Projects\ImagemDB\ImagemDB\bin\Debug\ImagemDB.exe
+c:\users\cristiano\documents\visual studio 2017\Projects\ImagemDB\ImagemDB\bin\Debug\ImagemDB.pdb
+c:\users\cristiano\documents\visual studio 2017\Projects\ImagemDB\ImagemDB\obj\Debug\ImagemDB.csprojResolveAssemblyReference.cache
+c:\users\cristiano\documents\visual studio 2017\Projects\ImagemDB\ImagemDB\obj\Debug\ImagemDB.Frm_Principal.resources
+c:\users\cristiano\documents\visual studio 2017\Projects\ImagemDB\ImagemDB\obj\Debug\ImagemDB.Properties.Resources.resources
+c:\users\cristiano\documents\visual studio 2017\Projects\ImagemDB\ImagemDB\obj\Debug\ImagemDB.csproj.GenerateResource.Cache
+c:\users\cristiano\documents\visual studio 2017\Projects\ImagemDB\ImagemDB\obj\Debug\ImagemDB.exe
+c:\users\cristiano\documents\visual studio 2017\Projects\ImagemDB\ImagemDB\obj\Debug\ImagemDB.pdb
