@@ -39,11 +39,13 @@
     <Reference Include="DotCEP">
       <HintPath>packages\DotCEP.1.2.2\lib\DotCEP.dll</HintPath>
     </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Drawing" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Pessoa.cs" />
+    <Compile Include="ConversorDeImagem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
