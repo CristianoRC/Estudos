@@ -1,0 +1,5 @@
+/home/cristiano/Projetos/Estudos/ExtensionMethods/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristiano/Projetos/Estudos/ExtensionMethods/bin/Debug/ExtensionMethods.exe.mdb
+/home/cristiano/Projetos/Estudos/ExtensionMethods/bin/Debug/ExtensionMethods.exe
+/home/cristiano/Projetos/Estudos/ExtensionMethods/obj/x86/Debug/ExtensionMethods.exe
+/home/cristiano/Projetos/Estudos/ExtensionMethods/obj/x86/Debug/ExtensionMethods.exe.mdb
