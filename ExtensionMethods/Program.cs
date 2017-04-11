@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using ExtensionMethodsDate;
+using DotCEP;
+
 
 namespace ExtensionMethods
 {
@@ -6,9 +10,9 @@ namespace ExtensionMethods
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine(DateTime.Now.ObterDataBrasileira());
-
-			Console.WriteLine("1998".ConverterParaInt());
+			String DataAtual = DateTime.Now.ObterDataFormatada();
+			
+			Console.WriteLine(DateTime.Now.ValidarIntervaloDeTempo(DataAtual));
 		}
 	}
 }

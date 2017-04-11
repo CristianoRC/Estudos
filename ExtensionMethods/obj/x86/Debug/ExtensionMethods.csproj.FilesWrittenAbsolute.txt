@@ -3,3 +3,8 @@
 /home/cristiano/Projetos/Estudos/ExtensionMethods/bin/Debug/ExtensionMethods.exe
 /home/cristiano/Projetos/Estudos/ExtensionMethods/obj/x86/Debug/ExtensionMethods.exe
 /home/cristiano/Projetos/Estudos/ExtensionMethods/obj/x86/Debug/ExtensionMethods.exe.mdb
+/home/cristiano/Projetos/Estudos/ExtensionMethods/bin/Debug/ExtensionMethods.pdb
+/home/cristiano/Projetos/Estudos/ExtensionMethods/obj/x86/Debug/ExtensionMethods.pdb
+/home/cristiano/Projetos/Estudos/ExtensionMethods/bin/Debug/DotCEP.dll
+/home/cristiano/Projetos/Estudos/ExtensionMethods/bin/Debug/Newtonsoft.Json.dll
+/home/cristiano/Projetos/Estudos/ExtensionMethods/bin/Debug/Spartacus.dll
