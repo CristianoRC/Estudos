@@ -7,6 +7,14 @@ div#Aula12 {
     background-color: gray;
 }
 
+div.Aula13 {
+    background-color: gray;
+}
+
+span.Aula13 {
+    background-color: greenyellow;
+}
+
 span#Aula12S {
     background-color: greenyellow;
 }
