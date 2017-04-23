@@ -1,0 +1,19 @@
+p.classe {
+    color: wheat;
+    font-size: 35;
+}
+
+p#id {
+    color: greenyellow;
+    font-size: 35;
+}
+
+body {
+    background-color: #3f3f3f;
+    text-align: center;
+}
+
+h1 {
+    font-family: monospace;
+    color: green;
+}
