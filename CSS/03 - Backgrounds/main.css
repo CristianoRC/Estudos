@@ -1,0 +1,19 @@
+    p.RGB {
+        color: rgb(0, 255, 255);
+    }
+    
+    p.Hexa {
+        color: #00FF00;
+    }
+    
+    body {
+        text-align: center;
+        /*Cores
+        background-color:#3f3f3f;
+        */
+        background-image: url("/home/cristiano/Pictures/pexels-photo-270557.jpeg");
+    }
+    
+    h1 {
+        color: greenyellow;
+    }
