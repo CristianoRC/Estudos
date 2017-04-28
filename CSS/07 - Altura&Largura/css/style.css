@@ -1,0 +1,26 @@
+body {
+    background-color: #3f3f3f;
+    text-align: center;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+div.Padrao {
+    height: 200px;
+    width: 200px;
+    background-color: dodgerblue;
+}
+
+div.Porcento {
+    height: 50% !important;
+    width: 50% !important;
+    background-color: dodgerblue !important;
+}
+
+div.ValorMaximo {
+    max-height: 400px !important;
+    width: 100% !important;
+    background-color: dodgerblue !important;
+}
