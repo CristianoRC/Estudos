@@ -1,5 +1,0 @@
-E:\Estudos\ExtensionMethods\bin\Debug\ExtensionMethods.exe
-E:\Estudos\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
-E:\Estudos\ExtensionMethods\obj\x86\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
-E:\Estudos\ExtensionMethods\obj\x86\Debug\ExtensionMethods.exe
-E:\Estudos\ExtensionMethods\obj\x86\Debug\ExtensionMethods.pdb
