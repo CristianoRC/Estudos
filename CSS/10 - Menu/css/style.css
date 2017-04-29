@@ -1,0 +1,31 @@
+body {
+    background-color: #3f3f3f;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 05px;
+    background-color: greenyellow;
+    font-family: monospace;
+    font-size: 30px;
+    border-radius: 3px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+li a {
+    text-decoration: none;
+}
+
+ul li a:hover {
+    background-color: lightgreen;
+}
