@@ -1,0 +1,41 @@
+body {
+    background-color: #3f3f3f;
+    text-align: center;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+#aula {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    width: 475px;
+    height: 500px;
+    background-color: greenyellow;
+    border: 5px 5px 5px 5px darkred;
+    border-radius: 20px;
+}
+
+#aula:hover {
+    background-color: cornflowerblue;
+}
+
+#aula:active {
+    background-color: darkblue;
+}
+
+p {
+    font-family: monospace;
+    font-size: 16px;
+}
+
+p:hover {
+    text-transform: uppercase;
+}
+
+p:active {
+    font-size: 20px;
+    color: white;
+}
