@@ -1,0 +1,36 @@
+body {
+    background-color: #3f3f3f;
+    text-align: center;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#div1 {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    width: 400px;
+    height: 280px;
+    background-color: greenyellow;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px darkred;
+    margin-bottom: 100px;
+}
+
+#div2 {
+    position: relative;
+    top: 200px;
+    left: 100px;
+    width: 100%;
+    height: 280px;
+    background-color: darkred;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px greenyellow;
+}
