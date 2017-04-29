@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>03 -Arrays</title>
+</head>
+
+<body>
+    <h2>Informações</h2>
+    <script>
+        var arr1 = new Array("Cristiano", 1998, "Pelotas", true);
+        var arr2 = new Array("Eletrônica", arr1);
+        var arr3 = ["2017/1", arr2];
+
+        document.writeln("<p>Aluno: " + arr3[0] + "</p>");
+        document.writeln("<p>" + arr3[1] + "</p>");
+    </script>
+
+    <br>
+    <hr>
+    <br>
+    <h2>Tamanhos</h2>
+    <script>
+        var arrA = new Array("Cristiano", 1998, "Pelotas", true);
+        var arrB = new Array("Eletrônica", arr1);
+        var arrC = ["2017/1", arr2];
+
+        document.writeln("<p> Array A: " + arrA.length + "</p");
+        document.writeln("<p> Array B: " + arrB.length + "</p");
+        document.writeln("<p> Array C: " + arrC.length + "</p");
+    </script>
+    <br>
+    <hr>
+    <br>
+    <h2>Removendo infromações</h2>
+    <script>
+        var arrA = new Array("Cristiano", 1998, "Pelotas", true);
+        var arrB = new Array("Eletrônica", arr1);
+        var arrC = ["2017/1", arr2];
+
+        arrA.length = 3;
+
+        document.writeln("<p> Array A: " + arrA + "</p");
+        document.writeln("<p> Array B: " + arrB + "</p");
+        document.writeln("<p> Array C: " + arrC + "</p");
+    </script>
+
+</body>
+
+</html>
