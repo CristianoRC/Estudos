@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <h2>O bootstrap é dividido em 12 colulas (12 spans)</h2>
+    <br>
+    <div class="container">
+        <h3>Por padrão, uma Row(Linha), contém 4 colunas.</h3>
+        <p class="fundoEscuro">
+            Classes de grade O sistema de grade Bootstrap tem quatro classes:
+            <ul style="color: snow">
+                <li>Xs (para telefones) </li>
+                <li>Sm (para comprimidos) </li>
+                <li>Md (para desktops)</li>
+                <li>Lg (para desktops maiores)</li>
+            </ul>
+            <br>
+        </p>
+    </div>
+    <div class="container">
+        <p class="fundoEscuro">
+            Primeiro deve-se criar uma linha <code> div class="row"</code>, logo após adicione o numero de colunas desejadas,
+            no máximo 12.
+        </p>
+        <h3>Exemplos</h3>
+        <p class="fundoEscuro">Três colunas iguais</p>
+        <div class="row">
+            <div class="col-sm-4 fundoEscuro">.col-sm-4</div>
+            <div class="col-sm-4 fundoEscuro">.col-sm-4</div>
+            <div class="col-sm-4 fundoEscuro">.col-sm-4</div>
+        </div>
+        <br>
+        <p class="fundoEscuro">Duas colunas diferentes</p>
+        <div class="row">
+            <div class="col-sm-4 fundoEscuro">col-sm-4</div>
+            <div class="col-sm-8 fundoEscuro">col-sm-8</div>
+        </div>
+    </div>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
+</body>
+
+</html>
