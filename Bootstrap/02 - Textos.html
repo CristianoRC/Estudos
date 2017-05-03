@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <h2>Code</h2>
+        <code>Console.WriteLine("Olá Mundo");</code>
+        <hr>
+    </div>
+    <div class="container">
+        <h2>Kbd - Entrada de teclado</h2>
+        <kbd>Ctrl+Shift+L</kbd>
+        <hr>
+    </div>
+    <div class="container">
+        <h2>Pre</h2>
+        <pre>internal static string ObterCaminhoBancoCache()
+        {
+            if (((int)Environment.OSVersion.Platform) < 4)
+            {
+                return $"{caminhoexecutavel}\\Cache\\Cache.db";// Windows
+            }
+            else
+            {
+                return $"{caminhoexecutavel}/Cache/Cache.db";// Linux e MacOSX			
+            }
+        }</pre>
+
+        <h3>Pre com scroll</h3>
+        <pre class="pre-scrollable">
+            internal static string ObterCaminhoBancoCache()
+        {
+            if (((int)Environment.OSVersion.Platform) < 4)
+            {
+                return $"{caminhoexecutavel}\\Cache\\Cache.db";// Windows
+            }
+            else
+            {
+                return $"{caminhoexecutavel}/Cache/Cache.db";// Linux e MacOSX			
+            }
+        }</pre>
+        <hr>
+    </div>
+    <div class="container">
+        <h2>Cores contextuais</h2>
+        <div class="container" id="Cores" style="background-color: snow">
+            <p class="text-muted">Esse texto é "mutado"</p>
+            <p class="text-primary">Esse texto é "primario"</p>
+            <p class="text-success">Esse texto é "sucesso"</p>
+            <p class="text-info">Esse texto é "informações"</p>
+            <p class="text-warning">Esse texto é "aviso"</p>
+            <p class="text-danger">Esse texto é "perigo"</p>
+        </div>
+        <hr>
+    </div>
+
+    <div class="container">
+        <h2>Cores de Fundo</h2>
+        <div class="container" id="CoresFundo" style="background-color: snow">
+            <p class="bg-primary">Esse texto é "primario"</p>
+            <p class="bg-sucess">Esse texto é "sucesso"</p>
+            <p class="bg-info">Esse texto é "informações"</p>
+            <p class="bg-warning">Esse texto é "aviso"</p>
+            <p class="bg-danger">Esse texto é "perigo"</p>
+        </div>
+        <hr>
+    </div>
+
+    <div class="container">
+        <h2>Alinhamento de texto</h2>
+
+        <h3>Esquerda</h3>
+        <p class="text-left fundoEscuro">Mussum Ipsum, cacilds vidis litro abertis. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+            Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Quem num gosta di mim que vai caçá sua turmis!
+            Interagi no mé, cursus quis, vehicula ac nisi.</p>
+        <h3>Direita</h3>
+        <p class="text-right fundoEscuro">Mussum Ipsum, cacilds vidis litro abertis. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+            Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Quem num gosta di mim que vai caçá sua turmis!
+            Interagi no mé, cursus quis, vehicula ac nisi.</p>
+        <h3>Centro</h3>
+        <p class="text-center fundoEscuro">Mussum Ipsum, cacilds vidis litro abertis. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+            Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Quem num gosta di mim que vai caçá sua turmis!
+            Interagi no mé, cursus quis, vehicula ac nisi.</p>
+        <h3>Justificado</h3>
+        <p class="text-justify fundoEscuro">Mussum Ipsum, cacilds vidis litro abertis. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+            Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Quem num gosta di mim que vai caçá sua turmis!
+            Interagi no mé, cursus quis, vehicula ac nisi.</p>
+        <hr>
+    </div>
+
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
+</body>
+
+</html>

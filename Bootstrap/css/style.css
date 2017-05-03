@@ -1,0 +1,16 @@
+body{
+    background-color:#3f3f3f;
+    margin-left: 1%;
+    margin-right:1%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+h1,h2,h3{
+    color: greenyellow;
+}
+h1,h2,h3,p{
+    font-family: monospace;
+}
+.fundoEscuro{
+    color: snow;
+}
