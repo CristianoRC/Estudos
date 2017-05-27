@@ -1,0 +1,5 @@
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/bin/Debug/TiposNullable.exe.mdb
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/bin/Debug/TiposNullable.exe
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/obj/x86/Debug/TiposNullable.exe
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/obj/x86/Debug/TiposNullable.exe.mdb
