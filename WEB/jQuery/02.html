@@ -5,8 +5,13 @@
     <title>jQuery aula 2</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="css/style.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="css/prism.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <script type="text/javascript" src="js/prism.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/jquery.js"></script>
 
     <!-- Iinicialização do jQuery -->
@@ -26,21 +31,29 @@
     <h1>Método de Carregamento e Inicialização</h1>
     <br>
 
-    <pre style="font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace; color: #000000; background-color: #eee;font-size: 12px;border: 1px dashed #999999;line-height: 14px;padding: 5px; overflow: auto; width: 100%"><code>  &lt;!-- Iinicializa&#231;&#227;o do jQuery --&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
-        $(document).ready(function () {
+    <div class="container">
+        <pre>
+            <code class="language-javascript">
+            $(document).ready(function () {
 
             alert('Dom Carregado');
         });
-    &lt;/script&gt;
-    </code></pre>
+            </code>
+        </pre>
+    </div>
+    <br>
 
     <h2>Segundo método</h2>
 
-    <pre style="font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace; color: #000000; background-color: #eee;font-size: 12px;border: 1px dashed #999999;line-height: 14px;padding: 5px; overflow: auto; width: 100%"><code> $(function () {
-            alert('Segunto m&#233;todo');
+    <div class="container">
+        <pre>
+            <code class="language-javascript">
+                $(function () {
+            alert('Segunto método');
         });
-</code></pre>
+            </code>
+        </pre>
+    </div>
 </body>
 
 </html>
