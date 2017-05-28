@@ -1,0 +1,41 @@
+body {
+    background-color: #3f3f3f;
+    text-align: center;
+}
+
+div#Aula12 {
+    background-color: gray;
+}
+
+div.Aula13 {
+    background-color: gray;
+}
+
+span.Aula13 {
+    background-color: greenyellow;
+}
+
+span#Aula12S {
+    background-color: greenyellow;
+}
+
+h1 {
+    color: greenyellow;
+    font-family: monospace;
+    font-size: 50px;
+}
+
+h2 {
+    color: green;
+    font-family: monospace;
+}
+
+p,
+li {
+    font-family: monospace;
+    font-size: 18px;
+}
+
+hr {
+    border-color: greenyellow;
+}
