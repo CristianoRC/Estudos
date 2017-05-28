@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>jQuery aula 3</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/prism.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <script type="text/javascript" src="js/prism.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            /* Em várias linhas
+            $('h1').hide();
+            $('h1').delay('1000');
+            $('h1').fadeIn("slow");
+            $('h1').text('Lógica de desenvolvimento - Texto Modificado');
+            */
+
+            /* Em linha 
+            $('h1').hide().delay('1000').fadeIn("slow").text('Lógica de desenvolvimento - Texto Modificado');
+            */
+
+            //Em bloco
+            $('h1')
+                .hide()
+                .delay('1000')
+                .fadeIn("slow")
+                .text('Lógica de desenvolvimento - Texto Modificado')
+                .click(function () {
+                    $('body').css("background", "#f66")
+                    $('#cor').css("color", "#3f3f3f")
+                    $('a').css({ color: '#3f3f3f', display: 'block' });
+                });
+
+            $('#cor').css("color", "#f66")
+            $('h3').css("font-size", 90);
+        });
+    </script>
+</head>
+
+<body>
+    <h1 id="tituloPrincipal">Lógica de desenvolvimento</h1>
+    <h2 id="cor">Mudança de cor</h2>
+    <h3>Tamanho</h3>
+
+    <a href="">Texto 1</a>
+    <a href="">Texto 2</a>
+    <a href="">Texto 3</a>
+
+    <div class="container">
+        <pre>
+            <code class="language-javascript">
+                /* Em várias linhas
+            $('h1').hide();
+            $('h1').delay('1000');
+            $('h1').fadeIn("slow");
+            $('h1').text('Lógica de desenvolvimento - Texto Modificado');
+            */
+
+            /* Em linha 
+            $('h1').hide().delay('1000').fadeIn("slow").text('Lógica de desenvolvimento - Texto Modificado');
+            */
+
+            //Em bloco
+            $('h1')
+                .hide()
+                .delay('1000')
+                .fadeIn("slow")
+                .text('Lógica de desenvolvimento - Texto Modificado')
+                .click(function () {
+                    $('body').css("background", "#f66")
+                    $('#cor').css("color", "#3f3f3f")
+                    $('a').css({ color: '#3f3f3f', display: 'block' });
+                });
+
+            $('#cor').css("color", "#f66")
+            $('h3').css("font-size", 90);
+        });
+            </code>
+        </pre>
+    </div>
+</body>
+
+</html>
