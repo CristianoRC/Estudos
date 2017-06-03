@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>jQuery aula 9</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/Aulas/09.js"></script>
+</head>
+
+<body>
+    <h1>Alterando dados em tabelas</h1>
+    <br>
+    <a class="btn btn-success btn-block btn-lg" href="js/Aulas/09.js" target="_blank">Arquivo JS</a>
+    <br>
+
+    <div class="container" style="background-color:gray;">
+        <table id="tabela" class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Firstname</th>
+                    <th>Lastname</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>John</td>
+                    <td>Doe</td>
+                    <td>john@example.com</td>
+                </tr>
+                <tr>
+                    <td>Mary</td>
+                    <td>Moe</td>
+                    <td>mary@example.com</td>
+                </tr>
+                <tr>
+                    <td>July</td>
+                    <td>Dooley</td>
+                    <td>july@example.com</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div id="aviso" style="margin-top:20px;display:none;" class="container alert alert-success">
+        Usuário cadastrado com sucesso
+    </div>
+
+    <div class="container form-group" style="margin-top:50px;">
+        <input style="margin-bottom:20px" class="form-control" type="text" id="nome" placeholder="Seu nome">
+        <input style="margin-bottom:20px" class="form-control" type="text" id="sobrenome" placeholder="Seu sobrenome">
+        <input style="margin-bottom:20px" class="form-control" type="email" id="email" placeholder="Seu e-mail">
+        <button id="adicionar" class="btn btn-lg btn-success btn-block">Adicionar</button>
+    </div>
+
+</body>
+
+</html>
