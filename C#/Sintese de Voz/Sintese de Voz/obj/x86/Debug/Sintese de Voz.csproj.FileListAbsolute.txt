@@ -1,0 +1,8 @@
+\\VBOXSVR\Projetos\Sintese de Voz\Sintese de Voz\bin\x86\Debug\Sintese de Voz.exe.config
+\\VBOXSVR\Projetos\Sintese de Voz\Sintese de Voz\bin\x86\Debug\Sintese de Voz.exe
+\\VBOXSVR\Projetos\Sintese de Voz\Sintese de Voz\bin\x86\Debug\Sintese de Voz.pdb
+\\VBOXSVR\Projetos\Sintese de Voz\Sintese de Voz\obj\x86\Debug\Sintese_de_Voz.Frm_Principal.resources
+\\VBOXSVR\Projetos\Sintese de Voz\Sintese de Voz\obj\x86\Debug\Sintese_de_Voz.Properties.Resources.resources
+\\VBOXSVR\Projetos\Sintese de Voz\Sintese de Voz\obj\x86\Debug\Sintese de Voz.csproj.GenerateResource.Cache
+\\VBOXSVR\Projetos\Sintese de Voz\Sintese de Voz\obj\x86\Debug\Sintese de Voz.exe
+\\VBOXSVR\Projetos\Sintese de Voz\Sintese de Voz\obj\x86\Debug\Sintese de Voz.pdb
