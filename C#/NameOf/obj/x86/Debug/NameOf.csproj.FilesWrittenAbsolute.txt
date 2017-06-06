@@ -1,0 +1,5 @@
+/home/cristianocunha/Projetos/Estudos/C#/NameOf/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristianocunha/Projetos/Estudos/C#/NameOf/bin/Debug/NameOf.exe.mdb
+/home/cristianocunha/Projetos/Estudos/C#/NameOf/bin/Debug/NameOf.exe
+/home/cristianocunha/Projetos/Estudos/C#/NameOf/obj/x86/Debug/NameOf.exe
+/home/cristianocunha/Projetos/Estudos/C#/NameOf/obj/x86/Debug/NameOf.exe.mdb
