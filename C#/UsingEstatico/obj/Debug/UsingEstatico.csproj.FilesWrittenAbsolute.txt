@@ -1,0 +1,5 @@
+/home/cristiano/Projetos/Estudos/C#/UsingEstatico/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristiano/Projetos/Estudos/C#/UsingEstatico/bin/Debug/UsingEstatico.dll.mdb
+/home/cristiano/Projetos/Estudos/C#/UsingEstatico/bin/Debug/UsingEstatico.dll
+/home/cristiano/Projetos/Estudos/C#/UsingEstatico/obj/Debug/UsingEstatico.dll
+/home/cristiano/Projetos/Estudos/C#/UsingEstatico/obj/Debug/UsingEstatico.dll.mdb
