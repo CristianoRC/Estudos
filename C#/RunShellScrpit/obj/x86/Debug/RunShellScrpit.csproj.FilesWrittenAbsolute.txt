@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/RunShellScrpit/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristiano/Projetos/RunShellScrpit/bin/Debug/RunShellScrpit.exe.mdb
+/home/cristiano/Projetos/RunShellScrpit/bin/Debug/RunShellScrpit.exe
+/home/cristiano/Projetos/RunShellScrpit/obj/x86/Debug/RunShellScrpit.exe
+/home/cristiano/Projetos/RunShellScrpit/obj/x86/Debug/RunShellScrpit.exe.mdb
+/home/cristiano/Projetos/Estudos/C#/RunShellScrpit/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristiano/Projetos/Estudos/C#/RunShellScrpit/bin/Debug/RunShellScrpit.exe.mdb
+/home/cristiano/Projetos/Estudos/C#/RunShellScrpit/bin/Debug/RunShellScrpit.exe
+/home/cristiano/Projetos/Estudos/C#/RunShellScrpit/obj/x86/Debug/RunShellScrpit.exe
+/home/cristiano/Projetos/Estudos/C#/RunShellScrpit/obj/x86/Debug/RunShellScrpit.exe.mdb
