@@ -10,11 +10,16 @@ namespace RunShellScrpit
 			try
 			{
 				ProcessStartInfo ps = new ProcessStartInfo();
-				ps.FileName = @"Aula.sh";
+				ps.FileName = @"AtualizarSistema.sh";
 				ps.UseShellExecute = false;
 				ps.RedirectStandardOutput = true;
 
 				Process process = Process.Start(ps);
+
+				string output = process.StandardOutput.ReadToEnd();
+				process.WaitForExit();
+
+				Console.WriteLine(output);
 			}
 			catch (Exception ex)
 			{
