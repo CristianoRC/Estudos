@@ -1,0 +1,5 @@
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/bin/Debug/TiposNullable.exe
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/bin/Debug/TiposNullable.pdb
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/obj/x86/Debug/TiposNullable.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/obj/x86/Debug/TiposNullable.exe
+/home/cristiano/Projetos/Estudos/C#/TiposNullable/TiposNullable/obj/x86/Debug/TiposNullable.pdb

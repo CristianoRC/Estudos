@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5F1EB3D7-E9E8-4C84-AFB1-3BE8219EA5EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sintese de Voz/Frm_Principal.cs">
+    <Files>
+      <File FileName="Sintese de Voz/Program.cs" Line="1" Column="1" />
+      <File FileName="Sintese de Voz/Frm_Principal.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
