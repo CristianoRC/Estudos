@@ -1,0 +1,6 @@
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/bin/Debug/ExpressaoLambida.exe
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/bin/Debug/ExpressaoLambida.pdb
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/obj/x86/Debug/ExpressaoLambida.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/obj/x86/Debug/ExpressaoLambida.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/obj/x86/Debug/ExpressaoLambida.exe
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/obj/x86/Debug/ExpressaoLambida.pdb

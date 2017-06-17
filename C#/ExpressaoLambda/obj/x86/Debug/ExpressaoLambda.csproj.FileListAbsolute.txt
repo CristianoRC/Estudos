@@ -1,0 +1,5 @@
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/bin/Debug/ExpressaoLambda.exe
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/bin/Debug/ExpressaoLambda.pdb
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/obj/x86/Debug/ExpressaoLambda.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/obj/x86/Debug/ExpressaoLambda.exe
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/obj/x86/Debug/ExpressaoLambda.pdb
