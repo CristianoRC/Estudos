@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/bin/Debug/ExemploDotCEP.exe
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/bin/Debug/ExemploDotCEP.pdb
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/obj/x86/Debug/ExemploDotCEP.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/obj/x86/Debug/ExemploDotCEP.exe
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/obj/x86/Debug/ExemploDotCEP.pdb
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/bin/Debug/DotCEP.dll
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/bin/Debug/Newtonsoft.Json.dll
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/bin/Debug/Spartacus.dll
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/bin/Debug/Newtonsoft.Json.xml
+/home/cristiano/Projetos/Estudos/C#/ExpressaoLambda/ExemploDotCEP/obj/x86/Debug/ExemploDotCEP.csprojResolveAssemblyReference.cache

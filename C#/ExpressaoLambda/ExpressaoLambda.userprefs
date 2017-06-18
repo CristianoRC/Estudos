@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{55E0024F-EE08-4287-A87E-1D5308CA2F5B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+﻿<Properties StartupConfiguration="{59A2092D-F71F-4D67-97E2-EC37E83CF43B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploDotCEP/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="61" Column="41" />
+      <File FileName="Program.cs" Line="11" Column="37" />
+      <File FileName="ExemploDotCEP/Program.cs" Line="9" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.ExpressaoLambida PreferredExecutionTarget="MonoDevelop.Default" />
@@ -11,4 +12,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExemploDotCEP PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
