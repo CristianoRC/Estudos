@@ -1,0 +1,5 @@
+/home/cristiano/Projetos/Estudos/C#/Execoes/bin/Debug/Execoes.exe
+/home/cristiano/Projetos/Estudos/C#/Execoes/bin/Debug/Execoes.pdb
+/home/cristiano/Projetos/Estudos/C#/Execoes/obj/x86/Debug/Execoes.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/Execoes/obj/x86/Debug/Execoes.exe
+/home/cristiano/Projetos/Estudos/C#/Execoes/obj/x86/Debug/Execoes.pdb
