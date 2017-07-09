@@ -1,0 +1,7 @@
+/home/cristiano/Projetos/Estudos/C#/Dapper/bin/Debug/Dapper.exe
+/home/cristiano/Projetos/Estudos/C#/Dapper/bin/Debug/Dapper.pdb
+/home/cristiano/Projetos/Estudos/C#/Dapper/obj/x86/Debug/Dapper.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/Dapper/obj/x86/Debug/Dapper.exe
+/home/cristiano/Projetos/Estudos/C#/Dapper/obj/x86/Debug/Dapper.pdb
+/home/cristiano/Projetos/Estudos/C#/Dapper/bin/Debug/Dapper.dll
+/home/cristiano/Projetos/Estudos/C#/Dapper/bin/Debug/Dapper.xml

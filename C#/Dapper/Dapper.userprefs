@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2C07CADC-7FAF-4243-928A-780036B7729C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Companhia.cs">
+    <Files>
+      <File FileName="Program.cs" Line="28" Column="27" />
+      <File FileName="Companhia.cs" Line="27" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExemplosDapper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
