@@ -1,0 +1,16 @@
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\MetroUIexemplo.exe.config
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\MetroUIexemplo.exe
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\MetroUIexemplo.pdb
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\MetroFramework.Design.dll
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\MetroFramework.dll
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\obj\Debug\MetroUIexemplo.csprojResolveAssemblyReference.cache
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\obj\Debug\MetroUIexemplo.Properties.Resources.resources
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\obj\Debug\MetroUIexemplo.csproj.GenerateResource.Cache
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\obj\Debug\MetroUIexemplo.exe
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\obj\Debug\MetroUIexemplo.pdb
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\DotCEP.dll
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\bin\Debug\Spartacus.dll
+C:\Users\VM\Desktop\MetroUIexemplo\MetroUIexemplo\obj\Debug\MetroUIexemplo.Frm_Principal.resources
