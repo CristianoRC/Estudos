@@ -2,13 +2,23 @@
 <html>
 <head>
     <title>@ViewBag.Title</title>
+    <meta charset = "UTF-8">   
+
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    <script src="@Url.Content("~/Scripts/bootstrap.min.js")" type="text/javascript"></script>
 </head>
+	
 <body>
+	<div class="container">
 		<h1>Cristianoprogramador.com</h1>
-		<!-- Nome, Action ,Controller -->
-        @Html.ActionLink("Home","Index","Home")
-		@Html.ActionLink("Sobre","Sobre","Home")
-		
-	@RenderBody()
+        <div class="row">
+            <!-- Nome, Action ,Controller -->
+            @Html.ActionLink("Home","Index","Home", null, new{@class="btn btn-success col-md-3 col-md-offset-3"})
+		    @Html.ActionLink("Sobre","Sobre","Home", null, new{@class="btn btn-success col-md-3 col-md-offset-1"})
+        </div>
+	    @RenderBody()
+
+	</div>
 </body>
 </html>

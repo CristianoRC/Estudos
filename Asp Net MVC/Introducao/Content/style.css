@@ -1,3 +1,13 @@
-﻿body {
-    background-color:#3fefef;
+﻿a , a:hover{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    background-color: #3f3f3f;
+    color: white;
+    padding: 15px 15px 15px 15px;
+}
+h2{
+    text-align: center;
+    margin-top: 60px;
 }
