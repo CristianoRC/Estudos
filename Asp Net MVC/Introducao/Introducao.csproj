@@ -74,6 +74,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
+    <Folder Include="Views\Categorias\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
@@ -81,6 +82,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CategoriasController.cs" />
+    <Compile Include="Models\Categoria.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -112,6 +115,7 @@
     <Content Include="Content\style.css" />
     <Content Include="Scripts\scripts.js" />
     <Content Include="Views\Home\Sobre.cshtml" />
+    <Content Include="Views\Categorias\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.9.1.min.map" />

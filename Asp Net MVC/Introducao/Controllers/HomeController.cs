@@ -25,6 +25,13 @@ namespace Introducao.Controllers
             return View();
         }
 
+        public ActionResult Sobre2()
+        {
+            return View("Sobre");
+            //Você pode passar o nome da viwe como parâmetro.
+            //Se não for passado, ele ira retonar uma view com o nome do método.
+        }
+
         #region Retornando strings
         //public string Index()
         //{

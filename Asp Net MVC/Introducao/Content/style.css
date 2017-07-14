@@ -1,11 +1,12 @@
 ﻿a , a:hover{
     text-decoration: none;
 }
-h1{
+.menu{
     text-align: center;
     background-color: #3f3f3f;
     color: white;
     padding: 15px 15px 15px 15px;
+    margin-bottom:50px;
 }
 h2{
     text-align: center;
