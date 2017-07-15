@@ -1,4 +1,4 @@
-﻿@model Introducao.Models.Categoria
+﻿﻿@model IEnumerable<Introducao.Models.Categoria>
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,33 +6,29 @@
 </head>
 <body>
 		<h2>Categorias - ASP NET MVC</h2>
-
+        <br>
 		<div class="container table-responsive">
 			<table class="table">
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.IdCategoria)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.Nome)
             </th>
-            <th></th>
         </tr>
     
-    @foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", 
-                        new { id=item.CategoriaId }) |
-                @Html.ActionLink("Details", "Details", 
-                        new { id=item.CategoriaId }) |
-                @Html.ActionLink("Delete", 
-                        "Delete", new { id=item.CategoriaId })
-            </td>
-        </tr>
-    }
-    
-
+        @foreach (var item in Model)
+         {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdCategoria)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+            </tr>
+        }   
 			</table>
 		</div>
 </body>
