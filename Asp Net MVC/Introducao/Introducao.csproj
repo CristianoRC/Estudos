@@ -116,6 +116,7 @@
     <Content Include="Scripts\scripts.js" />
     <Content Include="Views\Home\Sobre.cshtml" />
     <Content Include="Views\Categorias\Index.cshtml" />
+    <Content Include="Views\Categorias\Criar.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.9.1.min.map" />

@@ -9,28 +9,44 @@
         <br>
 		<div class="container table-responsive">
 			<table class="table">
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.IdCategoria)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Nome)
-            </th>
-        </tr>
-    
-        @foreach (var item in Model)
-         {
             <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.IdCategoria)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Nome)
-                </td>
+                <th>
+                    <p>Id Categoria</p>
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nome)
+                </th>
+                <th>
+                    <p>Editar</p>
+                </th>
+                <th>
+                    <p>Deletar</p>
+                </th>
             </tr>
-        }   
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdCategoria)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.ActionLink("editar","Editar","Categorias", null, new {@class="btn btn-link"})
+                    </td>
+                    <td>
+                        @Html.ActionLink("deletar","Deletar","Categorias", null, new {@class="btn btn-link"})
+                    </td>
+                </tr>
+            }   
 			</table>
 		</div>
+        <div class="Container">
+            <div class="row MenuCRUD">
+                @Html.ActionLink("Criar", "Criar","Categorias",null, new {@class="btn btn-primary col-md-1"})
+            </div>
+        </div>
 </body>
 </html>
 
