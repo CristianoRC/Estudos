@@ -1,0 +1,18 @@
+﻿@model DotCEP.Endereco
+
+<h2>Consulta CEP</h2>
+
+<div class="container" style="background-color:#f5f5f5">
+    <br>
+    <p>CEP:@Html.DisplayFor(x => Model.cep)</p>
+
+    <p>UF: @Html.DisplayFor(x => Model.uf)</p>
+
+    <p>Localidade: @Html.DisplayFor(x => Model.localidade)</p>
+
+    <p>Bairro: @Html.DisplayFor(x => Model.bairro)</p>
+
+    <p>Logradouro: @Html.DisplayFor(x => Model.logradouro)</p>
+
+    <p>ibge: @Html.DisplayFor(x => Model.ibge)</p>
+</div>

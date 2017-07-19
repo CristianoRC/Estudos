@@ -36,3 +36,7 @@
 /home/cristiano/Projetos/Estudos/Asp Net MVC2/Introducao/obj/Debug/Introducao.csproj.CoreCompileInputs.cache
 /home/cristiano/Projetos/Estudos/Asp Net MVC2/Introducao/obj/Debug/Introducao.dll
 /home/cristiano/Projetos/Estudos/Asp Net MVC2/Introducao/obj/Debug/Introducao.pdb
+/home/cristiano/Projetos/Estudos/Asp Net MVC/Introducao/bin/DotCEP.dll
+/home/cristiano/Projetos/Estudos/Asp Net MVC/Introducao/bin/Newtonsoft.Json.dll
+/home/cristiano/Projetos/Estudos/Asp Net MVC/Introducao/bin/Spartacus.dll
+/home/cristiano/Projetos/Estudos/Asp Net MVC/Introducao/bin/Newtonsoft.Json.xml

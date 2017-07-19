@@ -17,10 +17,12 @@
 	<div class="container">
         <div class="row">
             <!-- Nome, Action ,Controller -->
-            @Html.ActionLink("Home","Index","Home", null, new{@class="btn btn-success col-md-3 col-md-offset-1"})
-		    @Html.ActionLink("Sobre","Sobre2","Home", null, new{@class="btn btn-success col-md-3 col-md-offset-1"})
-            @Html.ActionLink("Categorias","Index","Categorias", null, new{@class="btn btn-success col-md-3 col-md-offset-1"})
+            @Html.ActionLink("Home","Index","Home", null, new{@class="btn btn-success col-md-2 col-md-offset-1"})
+		    @Html.ActionLink("Sobre","Sobre2","Home", null, new{@class="btn btn-success col-md-2 col-md-offset-1"})
+            @Html.ActionLink("Categorias","Index","Categorias", null, new{@class="btn btn-success col-md-2 col-md-offset-1"})
+            @Html.ActionLink("CEP","Index","CEP",null,new {@class="btn btn-success col-md-2 col-md-offset-1"})
         </div>
+        
 	    @RenderBody()
 
 	</div>
