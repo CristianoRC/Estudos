@@ -12,7 +12,14 @@ namespace Introducao.Controllers
     {
         public ActionResult Index()
         {
-            var enderecoEx = Consultas.ObterEnderecoCompleto("96083-500");
+            return View();
+        }
+
+		[HttpPost]
+		[ValidateAntiForgeryToken]
+        public ActionResult Index(string CEP)
+        {
+            var enderecoEx = Consultas.ObterEnderecoCompleto(CEP);
 
             return View(enderecoEx);
         }
