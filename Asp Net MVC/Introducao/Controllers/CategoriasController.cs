@@ -22,7 +22,7 @@ namespace Introducao.Controllers
 
         public ActionResult Index()
         {
-            return View(categorias);
+            return View(categorias.OrderBy(x => x.IdCategoria));
         }
 
         public ActionResult Criar()
@@ -37,10 +37,33 @@ namespace Introducao.Controllers
             categoria.IdCategoria = categorias.Count + 1;
             categorias.Add(categoria);
 
-            //Inserindo o ID com LINQ
-            //categoria.IdCategoria = categorias.Select(m => m.IdCategoria).Max() + 1;
-
             return RedirectToAction("index");
+        }
+
+        public ActionResult Editar(long ID)
+        {
+            var categoriaTemp = categorias.Where(m => m.IdCategoria.Equals(ID)).First();
+
+            return View(categoriaTemp);
+        }
+
+        [ValidateAntiForgeryToken]
+        [HttpPost]
+        public ActionResult Editar(Categoria _categoria)
+        {
+            categorias.Remove(categorias.Where(x => x.IdCategoria == _categoria.IdCategoria).First());
+
+            categorias.Add(_categoria);
+
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public ActionResult Deletar(long ID)
+        {
+            categorias.Remove(categorias.Where(x => x.IdCategoria == ID).First());
+
+            return RedirectToAction("Index");
         }
     }
 }

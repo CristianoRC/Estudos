@@ -33,10 +33,10 @@
                         @Html.DisplayFor(modelItem => item.Nome)
                     </td>
                     <td>
-                        @Html.ActionLink("editar","Editar","Categorias", null, new {@class="btn btn-link"})
+                        @Html.ActionLink("editar","Editar","Categorias", new {id = item.IdCategoria} , new {@class="btn btn-link"})
                     </td>
                     <td>
-                        @Html.ActionLink("deletar","Deletar","Categorias", null, new {@class="btn btn-link"})
+                        @Html.ActionLink("deletar","Deletar","Categorias", new {id = item.IdCategoria}, new {@class="btn btn-link"})
                     </td>
                 </tr>
             }   
