@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 using DotCEP;
-using Introducao.Models;
 
 namespace Introducao.Controllers
 {
@@ -15,8 +10,8 @@ namespace Introducao.Controllers
             return View();
         }
 
-		[HttpPost]
-		[ValidateAntiForgeryToken]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Index(string CEP)
         {
             var enderecoEx = Consultas.ObterEnderecoCompleto(CEP);
