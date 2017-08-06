@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{2F2D84D9-4483-4764-83F5-058D106F1FA4}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CEPController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/DotCEP.cshtml">
     <Files>
-      <File FileName="Controllers/CategoriasController.cs" Line="2" Column="15" />
-      <File FileName="Controllers/CEPController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/HomeController.cs" Line="15" Column="63" />
+      <File FileName="Views/CEP/Index.cshtml" Line="5" Column="16" />
+      <File FileName="Views/Shared/DotCEP.cshtml" Line="10" Column="36" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="10" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

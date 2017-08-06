@@ -129,6 +129,8 @@
     <Content Include="Views\Categorias\Criar.cshtml" />
     <Content Include="Views\CEP\Index.cshtml" />
     <Content Include="Views\Categorias\Editar.cshtml" />
+    <Content Include="Views\Shared\DotCEP.cshtml" />
+    <Content Include="Scripts\scrolling-nav.js" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.9.1.min.map" />

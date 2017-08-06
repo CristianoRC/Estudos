@@ -8,16 +8,17 @@ namespace ExemplosDapper
         {
             try
             {
+                var cia = new Companhia();
                 #region Criação
 
-                Console.WriteLine("Criação / Leitura de informações \n");
-                var cia = new Companhia();
+                //Console.WriteLine("Criação / Leitura de informações \n");
+                //var cia = new Companhia();
 
-                cia.cNome = "Cristiano";
-                cia.pais = "Brasil";
-                cia.valoracao = 200;
+                //cia.cNome = "Cristiano";
+                //cia.pais = "Brasil";
+                //cia.valoracao = 200;
 
-                cia.Create();
+                //cia.Create();
                 #endregion
 
                 #region Leitura
