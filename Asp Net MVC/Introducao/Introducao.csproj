@@ -12,7 +12,7 @@
     <NeutralLanguage>pt-BR</NeutralLanguage>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileUpgradeFlags>40</FileUpgradeFlags>
-    <UpgradeBackupLocation>E:\Estudos\Asp Net MVC\Introducao\Backup2\</UpgradeBackupLocation>
+    <UpgradeBackupLocation>E:\Estudos\Asp Net MVC\Introducao\Backup\</UpgradeBackupLocation>
     <OldToolsVersion>4.0</OldToolsVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -131,6 +131,7 @@
     <Content Include="Views\Categorias\Editar.cshtml" />
     <Content Include="Views\Shared\DotCEP.cshtml" />
     <Content Include="Scripts\scrolling-nav.js" />
+    <Content Include="Views\CEP\Enderecos.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.9.1.min.map" />

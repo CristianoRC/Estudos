@@ -1,5 +1,6 @@
 ﻿using System.Web.Mvc;
 using DotCEP;
+using System;
 
 namespace Introducao.Controllers
 {
@@ -17,6 +18,14 @@ namespace Introducao.Controllers
             var enderecoEx = Consultas.ObterEnderecoCompleto(CEP);
 
             return View(enderecoEx);
+        }
+
+        [ValidateAntiForgeryToken]
+        [HttpPost]
+        public ActionResult Enderecos()
+        {
+            var listaDeEnderecos = Consultas.ObterListaDeEnderecos(UF.RS, "Pelotas", "Ferreira");
+            return View(listaDeEnderecos);
         }
     }
 }
