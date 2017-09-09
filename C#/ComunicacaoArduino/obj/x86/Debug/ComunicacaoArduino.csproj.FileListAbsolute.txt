@@ -1,5 +1,0 @@
-/home/cristiano/Projetos/Estudos/C#/ComunicacaoArduino/bin/Debug/ComunicacaoArduino.exe
-/home/cristiano/Projetos/Estudos/C#/ComunicacaoArduino/bin/Debug/ComunicacaoArduino.pdb
-/home/cristiano/Projetos/Estudos/C#/ComunicacaoArduino/obj/x86/Debug/ComunicacaoArduino.csproj.CoreCompileInputs.cache
-/home/cristiano/Projetos/Estudos/C#/ComunicacaoArduino/obj/x86/Debug/ComunicacaoArduino.exe
-/home/cristiano/Projetos/Estudos/C#/ComunicacaoArduino/obj/x86/Debug/ComunicacaoArduino.pdb

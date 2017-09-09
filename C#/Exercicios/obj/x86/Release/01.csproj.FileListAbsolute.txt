@@ -1,3 +1,0 @@
-/home/cristiano/Projetos/Estudos/C#/Exercicios/bin/Release/01.exe
-/home/cristiano/Projetos/Estudos/C#/Exercicios/obj/x86/Release/01.csproj.CoreCompileInputs.cache
-/home/cristiano/Projetos/Estudos/C#/Exercicios/obj/x86/Release/01.exe

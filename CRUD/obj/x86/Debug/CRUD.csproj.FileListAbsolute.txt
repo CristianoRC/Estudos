@@ -1,5 +1,0 @@
-/home/cristiano/Projetos/Estudos/CRUD/bin/Debug/CRUD.exe
-/home/cristiano/Projetos/Estudos/CRUD/bin/Debug/CRUD.pdb
-/home/cristiano/Projetos/Estudos/CRUD/obj/x86/Debug/CRUD.csproj.CoreCompileInputs.cache
-/home/cristiano/Projetos/Estudos/CRUD/obj/x86/Debug/CRUD.exe
-/home/cristiano/Projetos/Estudos/CRUD/obj/x86/Debug/CRUD.pdb

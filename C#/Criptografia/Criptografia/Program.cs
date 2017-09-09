@@ -45,7 +45,7 @@ namespace Criptografia
 
 		public static bool VerificarSenha(string Senha)
 		{
-			var senhaDoBanco = "3eeb79fafb2063cc034e00aa0c6bf093";
+			var senhaDoBanco = "Hash do banco";
 			var senhaInformada = GerarHashMd5(Senha);
 
 			if (senhaInformada == senhaDoBanco)
