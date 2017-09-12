@@ -1,0 +1,15 @@
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/bin/Release/ExemploDotCEP.exe.config
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/bin/Release/ExemploDotCEP.exe
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/bin/Release/ExemploDotCEP.pdb
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/bin/Release/DotCEP.dll
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/bin/Release/Newtonsoft.Json.dll
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/bin/Release/Spartacus.dll
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/bin/Release/Newtonsoft.Json.xml
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/obj/Release/ExemploDotCEP.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/obj/Release/ExemploDotCEP.csproj.ExemploDotCEP.exe.config
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/obj/Release/ExemploDotCEP.Frm_Principal.resources
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/obj/Release/ExemploDotCEP.Properties.Resources.resources
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/obj/Release/ExemploDotCEP.csproj.GenerateResource.Cache
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/obj/Release/ExemploDotCEP.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/obj/Release/ExemploDotCEP.exe
+/home/cristiano/Projetos/Estudos/C#/ExemploDotCEP/obj/Release/ExemploDotCEP.pdb

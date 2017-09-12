@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=DotCEP
+GenericName=DotCEP exemplo
+Comment=Software de teste DotCEP
+Exec=mono /opt/DotCEP/ExemploDotCEP.exe
+Icon=/usr/share/pixmaps/dotcep.png
+Terminal=false
+Categories=Development;Tools;
+Keywords=CEP;DotCEP;Csharp;Mono;

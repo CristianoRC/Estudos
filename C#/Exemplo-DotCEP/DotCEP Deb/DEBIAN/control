@@ -1,0 +1,10 @@
+Package: dotcep
+Version: 1.0
+Architecture: amd64
+Maintainer: Cristiano R. Cunha <contato@cristianoprogramador.com>
+Instaled-Size: 17000
+Depends: mono-complete
+Section: tools
+Priority: optional
+Description: Software de exemplo da biblioteca DotCEP - Csharp
+
