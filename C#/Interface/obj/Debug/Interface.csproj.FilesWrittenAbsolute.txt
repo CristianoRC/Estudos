@@ -1,5 +1,0 @@
-/home/cristiano/Projetos/Estudos/C#/Interface/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/cristiano/Projetos/Estudos/C#/Interface/bin/Debug/Interface.dll.mdb
-/home/cristiano/Projetos/Estudos/C#/Interface/bin/Debug/Interface.dll
-/home/cristiano/Projetos/Estudos/C#/Interface/obj/Debug/Interface.dll
-/home/cristiano/Projetos/Estudos/C#/Interface/obj/Debug/Interface.dll.mdb

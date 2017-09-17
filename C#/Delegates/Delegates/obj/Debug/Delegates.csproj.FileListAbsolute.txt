@@ -1,0 +1,6 @@
+/home/cristiano/Projetos/Estudos/C#/Delegates/Delegates/bin/Debug/Delegates.exe
+/home/cristiano/Projetos/Estudos/C#/Delegates/Delegates/bin/Debug/Delegates.pdb
+/home/cristiano/Projetos/Estudos/C#/Delegates/Delegates/obj/Debug/Delegates.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/Estudos/C#/Delegates/Delegates/obj/Debug/Delegates.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/Delegates/Delegates/obj/Debug/Delegates.exe
+/home/cristiano/Projetos/Estudos/C#/Delegates/Delegates/obj/Debug/Delegates.pdb
