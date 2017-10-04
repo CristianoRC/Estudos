@@ -35,9 +35,9 @@ namespace SenhaConsole
         }
         public static bool VerificarSenha(string senha)
         {
-            var senhaDoBanco = "3eeb79fafb2063cc034e00aa0c6bf093";
+            var senhaDoBanco = "25f9e794323b453885f5181f1b624d0b";
 
-            if (senha == senhaDoBanco || senha == "Crc19D98C#")
+            if (senha == senhaDoBanco)
                 return true;
             else
                 return false;
