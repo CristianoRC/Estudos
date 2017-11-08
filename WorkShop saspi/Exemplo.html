@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Exercício - 01</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        html,
+        body {
+            padding: 0;
+            margin: 0;
+        }
+
+        .blue {
+            background: blue;
+        }
+
+
+        .red {
+            background: red;
+        }
+
+        .yellow {
+            background: yellow;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .painel {
+            display: inline-block;
+            width: calc(50% - 5px);
+            height: 300px;
+            min-width: 300px;
+        }
+
+        .painel-pequeno {
+            display: inline-block;
+            width: 33%;
+            height: 300px;
+            min-width: 300px;
+        }
+
+        .secao {
+            width: 100%;
+            background: #ABC6C3;
+        }
+
+        @media screen and (max-width: 768px){
+            .secao{
+                background: yellow;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <section class="secao">
+        <div class="container">
+            <div class="painel-pequeno">
+                <p>Olá Mundo!</p>
+            </div>
+            <div class="painel-pequeno">
+                <p>Olá Mundo!</p>
+            </div>
+            <div class="painel-pequeno">
+                <p>Olá Mundo!</p>
+            </div>
+
+            <div class="painel">
+                <p>Olá Mundo!</p>
+            </div>
+            <div class="painel">
+                <p>Olá Mundo!</p>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

@@ -1,0 +1,82 @@
+/*
+Laranja: #EF8F30;
+Laranja amarronzado: #AF6422;
+Laranja avermelhado: #FE4108;
+Azul principal: #244768;
+Azul secundario: #05264B;
+ */
+
+ /* Classes e estilos genericos */
+
+ img{
+     max-width: 100%;
+ }
+
+ ul{
+     list-style: none;
+ }
+
+ a, a:hover, a:focus{
+     text-decoration: none;
+ }
+
+ .text-center{
+     text-align: center;
+ }
+
+ .titulo-principal{
+    font-size: 2em; /* +- 30 px;*/
+    color: #244768;
+    margin: 2rem 0;
+}
+
+.section{
+    padding: 2em 0;
+    width: 100%;
+}
+
+/* Cabeçalho */
+
+.logo{
+    width: 150px;
+}
+
+.header{
+    height: 60vh;
+    min-height: 250 px; color: lightgray;
+    background-size: cover; /*Cobre toda a div*/
+    background-position: center;
+    background-color: lightgray;
+}
+
+.nav{
+    width: 100%;
+    padding: 1em 0; /* X Y*/
+    background-color: #EF8F30;
+}
+
+.equipe-legenda{
+    margin: 1rem 0;
+    text-transform: uppercase;
+}
+
+.menu{
+    padding: 0;
+    text-align: center;
+}
+
+.menu .menu-item{
+    display: inline-block;
+}
+
+.menu .menu-item .menu-link{
+    display: block;
+    padding: 1em;
+    color: white;
+    text-transform: uppercase;
+    transition: 250ms ease;
+}
+
+.menu .menu-item .menu-link:hover{
+    color: #FE4108;
+}
