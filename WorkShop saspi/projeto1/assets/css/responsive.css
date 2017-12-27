@@ -23,4 +23,8 @@
         display: inline-block;
         float: right;
     }
+
+    .img-equipe{
+        margin-bottom: 3em;
+    }
 }
