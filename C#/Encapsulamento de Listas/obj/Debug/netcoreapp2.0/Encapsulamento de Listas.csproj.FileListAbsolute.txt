@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/bin/Debug/netcoreapp2.0/Encapsulamento de Listas.deps.json
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/bin/Debug/netcoreapp2.0/Encapsulamento de Listas.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/bin/Debug/netcoreapp2.0/Encapsulamento de Listas.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/bin/Debug/netcoreapp2.0/Encapsulamento de Listas.dll
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/bin/Debug/netcoreapp2.0/Encapsulamento de Listas.pdb
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/obj/Debug/netcoreapp2.0/Encapsulamento de Listas.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/obj/Debug/netcoreapp2.0/Encapsulamento de Listas.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/obj/Debug/netcoreapp2.0/Encapsulamento de Listas.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/obj/Debug/netcoreapp2.0/Encapsulamento de Listas.dll
+/home/cristiano/Projetos/Estudos/C#/Encapsulamento de Listas/obj/Debug/netcoreapp2.0/Encapsulamento de Listas.pdb
