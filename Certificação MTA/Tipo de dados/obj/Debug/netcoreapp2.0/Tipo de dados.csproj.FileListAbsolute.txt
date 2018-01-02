@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/bin/Debug/netcoreapp2.0/Tipo de dados.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/bin/Debug/netcoreapp2.0/Tipo de dados.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/bin/Debug/netcoreapp2.0/Tipo de dados.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/bin/Debug/netcoreapp2.0/Tipo de dados.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/bin/Debug/netcoreapp2.0/Tipo de dados.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/obj/Debug/netcoreapp2.0/Tipo de dados.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/obj/Debug/netcoreapp2.0/Tipo de dados.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/obj/Debug/netcoreapp2.0/Tipo de dados.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/obj/Debug/netcoreapp2.0/Tipo de dados.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tipo de dados/obj/Debug/netcoreapp2.0/Tipo de dados.pdb
