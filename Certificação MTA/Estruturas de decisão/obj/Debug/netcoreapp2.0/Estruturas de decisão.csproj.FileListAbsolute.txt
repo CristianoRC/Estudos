@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/bin/Debug/netcoreapp2.0/Estruturas de decisão.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/bin/Debug/netcoreapp2.0/Estruturas de decisão.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/bin/Debug/netcoreapp2.0/Estruturas de decisão.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/bin/Debug/netcoreapp2.0/Estruturas de decisão.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/bin/Debug/netcoreapp2.0/Estruturas de decisão.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/obj/Debug/netcoreapp2.0/Estruturas de decisão.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/obj/Debug/netcoreapp2.0/Estruturas de decisão.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/obj/Debug/netcoreapp2.0/Estruturas de decisão.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/obj/Debug/netcoreapp2.0/Estruturas de decisão.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/Estruturas de decisão/obj/Debug/netcoreapp2.0/Estruturas de decisão.pdb
