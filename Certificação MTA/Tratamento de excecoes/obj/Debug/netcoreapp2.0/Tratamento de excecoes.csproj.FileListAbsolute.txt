@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/bin/Debug/netcoreapp2.0/Tratamento de excecoes.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/bin/Debug/netcoreapp2.0/Tratamento de excecoes.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/bin/Debug/netcoreapp2.0/Tratamento de excecoes.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/bin/Debug/netcoreapp2.0/Tratamento de excecoes.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/bin/Debug/netcoreapp2.0/Tratamento de excecoes.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/obj/Debug/netcoreapp2.0/Tratamento de excecoes.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/obj/Debug/netcoreapp2.0/Tratamento de excecoes.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/obj/Debug/netcoreapp2.0/Tratamento de excecoes.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/obj/Debug/netcoreapp2.0/Tratamento de excecoes.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/Tratamento de excecoes/obj/Debug/netcoreapp2.0/Tratamento de excecoes.pdb
