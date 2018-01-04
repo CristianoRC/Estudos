@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/bin/Debug/netcoreapp2.0/BasePOO.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/bin/Debug/netcoreapp2.0/BasePOO.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/bin/Debug/netcoreapp2.0/BasePOO.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/bin/Debug/netcoreapp2.0/BasePOO.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/bin/Debug/netcoreapp2.0/BasePOO.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/obj/Debug/netcoreapp2.0/BasePOO.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/obj/Debug/netcoreapp2.0/BasePOO.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/obj/Debug/netcoreapp2.0/BasePOO.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/obj/Debug/netcoreapp2.0/BasePOO.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/BasePOO/obj/Debug/netcoreapp2.0/BasePOO.pdb
