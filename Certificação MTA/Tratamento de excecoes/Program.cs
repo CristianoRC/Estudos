@@ -9,7 +9,7 @@ namespace Tratamento_de_excecoes
             try
             {
                 var entrada = Convert.ToInt32(Console.ReadLine());
-                var resultado = 15/entrada;
+                var resultado = 15 / entrada;
             }
             catch (DivideByZeroException e)
             {
