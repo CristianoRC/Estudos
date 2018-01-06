@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/bin/Debug/netcoreapp2.0/EnumStructs.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/bin/Debug/netcoreapp2.0/EnumStructs.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/bin/Debug/netcoreapp2.0/EnumStructs.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/bin/Debug/netcoreapp2.0/EnumStructs.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/bin/Debug/netcoreapp2.0/EnumStructs.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/obj/Debug/netcoreapp2.0/EnumStructs.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/obj/Debug/netcoreapp2.0/EnumStructs.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/obj/Debug/netcoreapp2.0/EnumStructs.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/obj/Debug/netcoreapp2.0/EnumStructs.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/EnumStructs/obj/Debug/netcoreapp2.0/EnumStructs.pdb
