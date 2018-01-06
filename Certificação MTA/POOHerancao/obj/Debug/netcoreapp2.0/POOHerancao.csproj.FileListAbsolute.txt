@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/bin/Debug/netcoreapp2.0/POOHerancao.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/bin/Debug/netcoreapp2.0/POOHerancao.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/bin/Debug/netcoreapp2.0/POOHerancao.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/bin/Debug/netcoreapp2.0/POOHerancao.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/bin/Debug/netcoreapp2.0/POOHerancao.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/obj/Debug/netcoreapp2.0/POOHerancao.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/obj/Debug/netcoreapp2.0/POOHerancao.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/obj/Debug/netcoreapp2.0/POOHerancao.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/obj/Debug/netcoreapp2.0/POOHerancao.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/POOHerancao/obj/Debug/netcoreapp2.0/POOHerancao.pdb
