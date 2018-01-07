@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/bin/Debug/netcoreapp2.0/EstruturaDeDados.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/bin/Debug/netcoreapp2.0/EstruturaDeDados.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/bin/Debug/netcoreapp2.0/EstruturaDeDados.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/bin/Debug/netcoreapp2.0/EstruturaDeDados.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/bin/Debug/netcoreapp2.0/EstruturaDeDados.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/obj/Debug/netcoreapp2.0/EstruturaDeDados.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/obj/Debug/netcoreapp2.0/EstruturaDeDados.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/obj/Debug/netcoreapp2.0/EstruturaDeDados.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/obj/Debug/netcoreapp2.0/EstruturaDeDados.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/EstruturaDeDados/obj/Debug/netcoreapp2.0/EstruturaDeDados.pdb
