@@ -8,6 +8,21 @@ namespace EstruturaDeDados
         static void Main(string[] args)
         {
 
+            unsafe
+            {
+                int* ponteiroIdade;
+                int idade = 19;
+
+                ponteiroIdade = &idade;
+
+                Console.WriteLine($"{nameof(ponteiroIdade).ToString()}: {*ponteiroIdade}");
+                Console.Write("\nAtualize a sua idade: ");
+                idade = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine($"\n{nameof(ponteiroIdade).ToString()}: {*ponteiroIdade}");
+            }
+
+            #region fila
+            /* 
             var fila = new Fila();
             Console.WriteLine($"Tamanho da fila: {fila.Tamanho}");
 
@@ -29,7 +44,8 @@ namespace EstruturaDeDados
 
             fila.Desenfileirar();
             Console.WriteLine($"\nTamanho da fila: {fila.Tamanho}");
-            fila.Desenfileirar();
+            fila.Desenfileirar();*/
+            #endregion
 
             #region  pilha
             /*var pilha = new Pilha();
