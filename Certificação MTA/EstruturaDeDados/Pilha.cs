@@ -5,7 +5,17 @@ namespace EstruturaDeDados
 
         private Funcionario[] pilhaFuncionarios;
         public int Tamanho => pilhaFuncionarios.Length;
-        public Funcionario ValorNoTopo => pilhaFuncionarios[pilhaFuncionarios.Length - 1];
+        public Funcionario ValorNoTopo
+        {
+            get
+            {
+                if (pilhaFuncionarios.Length != 0)
+                {
+                    return pilhaFuncionarios[pilhaFuncionarios.Length - 1];
+                }
+                throw new System.Exception("Não há funcionários na pilha");
+            }
+        }
 
         public void Empilhar(Funcionario funcionario)
         {
