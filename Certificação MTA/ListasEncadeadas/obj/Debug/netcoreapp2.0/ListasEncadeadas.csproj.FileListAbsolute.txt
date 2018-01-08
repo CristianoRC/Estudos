@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/bin/Debug/netcoreapp2.0/ListasEncadeadas.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/bin/Debug/netcoreapp2.0/ListasEncadeadas.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/bin/Debug/netcoreapp2.0/ListasEncadeadas.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/bin/Debug/netcoreapp2.0/ListasEncadeadas.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/bin/Debug/netcoreapp2.0/ListasEncadeadas.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/obj/Debug/netcoreapp2.0/ListasEncadeadas.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/obj/Debug/netcoreapp2.0/ListasEncadeadas.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/obj/Debug/netcoreapp2.0/ListasEncadeadas.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/obj/Debug/netcoreapp2.0/ListasEncadeadas.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/ListasEncadeadas/obj/Debug/netcoreapp2.0/ListasEncadeadas.pdb
