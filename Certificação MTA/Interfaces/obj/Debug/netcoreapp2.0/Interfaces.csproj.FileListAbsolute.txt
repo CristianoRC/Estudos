@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.pdb

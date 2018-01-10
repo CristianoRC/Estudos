@@ -670,22 +670,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cristiano/Projetos/Estudos/C#/SenhaConsole/SenhaConsole.csproj",
-      "projectName": "SenhaConsole",
-      "projectPath": "/home/cristiano/Projetos/Estudos/C#/SenhaConsole/SenhaConsole.csproj",
+      "projectUniqueName": "/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/Interfaces.csproj",
+      "projectName": "Interfaces",
+      "projectPath": "/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/Interfaces.csproj",
       "packagesPath": "/home/cristiano/.nuget/packages/",
-      "outputPath": "/home/cristiano/Projetos/Estudos/C#/SenhaConsole/obj/",
+      "outputPath": "/home/cristiano/Projetos/Estudos/Certificação MTA/Interfaces/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/cristiano/Projetos/Estudos/C#/SenhaConsole/nuget.config",
         "/home/cristiano/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {}
