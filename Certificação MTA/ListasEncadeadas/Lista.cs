@@ -60,7 +60,31 @@ namespace ListasEncadeadas
 
         public void Deletar(string valor)
         {
-            
+            No noAtual = PrimeiroNo;
+            No noAnterior = null;
+            bool noEncontrado = false;
+
+            do
+            {
+                if (noAtual.Valor == valor)//Verifica se o nó atual é o correto a ser deletado.
+                {
+                    if (noAnterior == null)//Verifica se le é o primeiro.
+                    {
+                        PrimeiroNo = noAtual.ProximoNo;//Se ee for o primeiro, o segundo nó vira  primeiro.
+                    }
+                    else
+                    {
+                        noAnterior.ProximoNo = noAtual.ProximoNo;//Se ele não for o primeiro, o anterior aponta para o proxímo do atual.
+                    }
+                    noEncontrado = true;
+                }
+                else //Se o valor não for o correto, a verificação passar para o próximo.
+                {
+                    noAnterior = noAtual;
+                    noAtual = noAtual.ProximoNo;
+                }
+            }
+            while (!noEncontrado || noAtual == null); // Verifica se o nó foi encontrado ou sele é nulo(Ultimo Nó ou a lista com zero nós).
         }
     }
 }

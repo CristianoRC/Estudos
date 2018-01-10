@@ -26,6 +26,18 @@ namespace ListasEncadeadas
             {
                 Console.WriteLine(item);
             }
+
+            Console.WriteLine("\nValor Deletado: Cristiano 3");
+            lista.Deletar("Cristiano");
+            Console.WriteLine($"Primeiro valor: {lista.PrimeiroNo.Valor}");
+            Console.WriteLine($"Ultimo valor: {lista.UltimoNo.Valor}\n");
+
+            Console.WriteLine("\n\nListagem dos valores");
+
+            foreach (var item in lista.ObterValores())
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
