@@ -19,6 +19,13 @@ namespace ListasEncadeadas
             lista.Adicionar("Cristiano 3");
             Console.WriteLine($"Primeiro valor: {lista.PrimeiroNo.Valor}");
             Console.WriteLine($"Ultimo valor: {lista.UltimoNo.Valor}\n");
+
+            Console.WriteLine("\n\nListagem dos valores");
+
+            foreach (var item in lista.ObterValores())
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
