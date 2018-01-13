@@ -5,8 +5,13 @@ namespace Encapsulamento_de_Listas
 {
     public class Venda
     {
-        IList<Produto> _produtos;
+        private IList<Produto> _produtos;
 
+        public Venda(Cliente cliente, IList<Produto> produtos)
+        {
+            Cliente = cliente;
+            _produtos = produtos;
+        }
         public Venda(Cliente cliente)
         {
             Cliente = cliente;
