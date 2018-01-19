@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/bin/Debug/netcoreapp2.0/DataSet.deps.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/bin/Debug/netcoreapp2.0/DataSet.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/bin/Debug/netcoreapp2.0/DataSet.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/bin/Debug/netcoreapp2.0/DataSet.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/bin/Debug/netcoreapp2.0/DataSet.pdb
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/obj/Debug/netcoreapp2.0/DataSet.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/obj/Debug/netcoreapp2.0/DataSet.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/obj/Debug/netcoreapp2.0/DataSet.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/obj/Debug/netcoreapp2.0/DataSet.dll
+/home/cristiano/Projetos/Estudos/Certificação MTA/DataSet/obj/Debug/netcoreapp2.0/DataSet.pdb
