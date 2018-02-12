@@ -22,6 +22,11 @@ namespace POOHerancao
         {
             Nome = nome;
         }
+
+        public void Salvar()
+        {
+
+        }
     }
 
     public class PessoaFisiaca : Pessoa
@@ -33,6 +38,8 @@ namespace POOHerancao
         {
             CPF = cpf;
             Idade = idade;
+
+            Salvar();
         }
 
         public override string ToString() => $"{base.Nome}, {Idade} anos, CPF: {CPF}";
