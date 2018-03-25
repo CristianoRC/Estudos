@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/bin/Debug/netcoreapp2.0/VarDynamics.deps.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/bin/Debug/netcoreapp2.0/VarDynamics.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/bin/Debug/netcoreapp2.0/VarDynamics.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/bin/Debug/netcoreapp2.0/VarDynamics.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/bin/Debug/netcoreapp2.0/VarDynamics.pdb
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/obj/Debug/netcoreapp2.0/VarDynamics.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/obj/Debug/netcoreapp2.0/VarDynamics.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/obj/Debug/netcoreapp2.0/VarDynamics.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/obj/Debug/netcoreapp2.0/VarDynamics.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/VarDynamics/obj/Debug/netcoreapp2.0/VarDynamics.pdb

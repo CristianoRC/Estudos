@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/bin/Debug/netcoreapp2.0/JSON.deps.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/bin/Debug/netcoreapp2.0/JSON.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/bin/Debug/netcoreapp2.0/JSON.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/bin/Debug/netcoreapp2.0/JSON.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/bin/Debug/netcoreapp2.0/JSON.pdb
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/obj/Debug/netcoreapp2.0/JSON.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/obj/Debug/netcoreapp2.0/JSON.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/obj/Debug/netcoreapp2.0/JSON.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/obj/Debug/netcoreapp2.0/JSON.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/XML_JSON/JSON/obj/Debug/netcoreapp2.0/JSON.pdb

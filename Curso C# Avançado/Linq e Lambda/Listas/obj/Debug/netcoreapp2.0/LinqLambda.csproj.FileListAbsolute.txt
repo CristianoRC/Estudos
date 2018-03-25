@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/bin/Debug/netcoreapp2.0/LinqLambda.deps.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/bin/Debug/netcoreapp2.0/LinqLambda.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/bin/Debug/netcoreapp2.0/LinqLambda.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/bin/Debug/netcoreapp2.0/LinqLambda.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/bin/Debug/netcoreapp2.0/LinqLambda.pdb
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/obj/Debug/netcoreapp2.0/LinqLambda.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/obj/Debug/netcoreapp2.0/LinqLambda.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/obj/Debug/netcoreapp2.0/LinqLambda.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/obj/Debug/netcoreapp2.0/LinqLambda.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/obj/Debug/netcoreapp2.0/LinqLambda.pdb

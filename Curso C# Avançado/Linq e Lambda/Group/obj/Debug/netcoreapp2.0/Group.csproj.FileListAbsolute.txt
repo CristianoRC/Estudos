@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/bin/Debug/netcoreapp2.0/Group.deps.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/bin/Debug/netcoreapp2.0/Group.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/bin/Debug/netcoreapp2.0/Group.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/bin/Debug/netcoreapp2.0/Group.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/bin/Debug/netcoreapp2.0/Group.pdb
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/obj/Debug/netcoreapp2.0/Group.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/obj/Debug/netcoreapp2.0/Group.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/obj/Debug/netcoreapp2.0/Group.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/obj/Debug/netcoreapp2.0/Group.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/Group/obj/Debug/netcoreapp2.0/Group.pdb

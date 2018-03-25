@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/bin/Debug/netcoreapp2.0/LinqObjetos.deps.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/bin/Debug/netcoreapp2.0/LinqObjetos.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/bin/Debug/netcoreapp2.0/LinqObjetos.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/bin/Debug/netcoreapp2.0/LinqObjetos.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/bin/Debug/netcoreapp2.0/LinqObjetos.pdb
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/obj/Debug/netcoreapp2.0/LinqObjetos.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/obj/Debug/netcoreapp2.0/LinqObjetos.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/obj/Debug/netcoreapp2.0/LinqObjetos.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/obj/Debug/netcoreapp2.0/LinqObjetos.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Linq e Lambda/LinqObjetos/obj/Debug/netcoreapp2.0/LinqObjetos.pdb

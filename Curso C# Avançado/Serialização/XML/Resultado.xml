@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pessoa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nome>Cristiano Cunha</Nome>
+  <Documento>1232356</Documento>
+  <Email>dffgzf@fsfsd.com</Email>
+</Pessoa>
