@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/bin/Debug/netcoreapp2.0/MultiTrhead.deps.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/bin/Debug/netcoreapp2.0/MultiTrhead.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/bin/Debug/netcoreapp2.0/MultiTrhead.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/bin/Debug/netcoreapp2.0/MultiTrhead.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/bin/Debug/netcoreapp2.0/MultiTrhead.pdb
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/obj/Debug/netcoreapp2.0/MultiTrhead.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/obj/Debug/netcoreapp2.0/MultiTrhead.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/obj/Debug/netcoreapp2.0/MultiTrhead.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/obj/Debug/netcoreapp2.0/MultiTrhead.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/MultiTrhead/obj/Debug/netcoreapp2.0/MultiTrhead.pdb

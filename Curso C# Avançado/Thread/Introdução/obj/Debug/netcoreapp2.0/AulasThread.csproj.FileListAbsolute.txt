@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/bin/Debug/netcoreapp2.0/AulasThread.deps.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/bin/Debug/netcoreapp2.0/AulasThread.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/bin/Debug/netcoreapp2.0/AulasThread.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/bin/Debug/netcoreapp2.0/AulasThread.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/bin/Debug/netcoreapp2.0/AulasThread.pdb
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/obj/Debug/netcoreapp2.0/AulasThread.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/obj/Debug/netcoreapp2.0/AulasThread.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/obj/Debug/netcoreapp2.0/AulasThread.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/obj/Debug/netcoreapp2.0/AulasThread.dll
+/home/cristiano/Projetos/Estudos/Curso C# Avançado/Thread/obj/Debug/netcoreapp2.0/AulasThread.pdb
