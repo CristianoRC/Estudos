@@ -1,18 +1,11 @@
-# Projeto de educação no Trânsito - LComp
+# Projeto de educação no Trânsito - LComp  ![Image of Yaktocat](Img/pedestrian.png)
+
+## Sobre
+Projeto final da cadeira de Introdução ao pensamento lógico do curso de Licenciatura em Computação, IFSul Campus Pelotas.
 
 * Objetivos
 
 * Justificativa
-
-* Script Scratch / Comportamento Script(Atores)
-
-* Apresentação
-
-* Fluxograma
-
-* Ficha de avaliação
-
-* Descrição + Principais dificuldades
 
 * Questionamentos
 
