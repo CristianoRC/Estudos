@@ -1,4 +1,4 @@
-# Projeto de educação no Trânsito - LComp  ![Image of Yaktocat](Img/pedestrian.png)
+# Projeto de educação no Trânsito - LComp  ![Logo Projeto](Img/pedestrian.png)
 
 ## Sobre
 Projeto final da cadeira de Introdução ao pensamento lógico do curso de Licenciatura em Computação, IFSul Campus Pelotas.
