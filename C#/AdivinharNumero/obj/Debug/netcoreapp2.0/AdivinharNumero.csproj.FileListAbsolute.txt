@@ -1,0 +1,10 @@
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/bin/Debug/netcoreapp2.0/AdivinharNumero.deps.json
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/bin/Debug/netcoreapp2.0/AdivinharNumero.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/bin/Debug/netcoreapp2.0/AdivinharNumero.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/bin/Debug/netcoreapp2.0/AdivinharNumero.dll
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/bin/Debug/netcoreapp2.0/AdivinharNumero.pdb
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/obj/Debug/netcoreapp2.0/AdivinharNumero.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/obj/Debug/netcoreapp2.0/AdivinharNumero.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/obj/Debug/netcoreapp2.0/AdivinharNumero.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/obj/Debug/netcoreapp2.0/AdivinharNumero.dll
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/obj/Debug/netcoreapp2.0/AdivinharNumero.pdb
