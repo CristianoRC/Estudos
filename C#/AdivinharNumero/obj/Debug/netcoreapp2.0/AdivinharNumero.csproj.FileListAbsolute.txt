@@ -8,3 +8,4 @@
 /home/cristiano/Projetos/Estudos/C#/AdivinharNumero/obj/Debug/netcoreapp2.0/AdivinharNumero.AssemblyInfo.cs
 /home/cristiano/Projetos/Estudos/C#/AdivinharNumero/obj/Debug/netcoreapp2.0/AdivinharNumero.dll
 /home/cristiano/Projetos/Estudos/C#/AdivinharNumero/obj/Debug/netcoreapp2.0/AdivinharNumero.pdb
+/home/cristiano/Projetos/Estudos/C#/AdivinharNumero/obj/Debug/netcoreapp2.0/AdivinharNumero.csprojResolveAssemblyReference.cache
