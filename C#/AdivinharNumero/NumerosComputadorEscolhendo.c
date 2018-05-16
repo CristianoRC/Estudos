@@ -2,14 +2,12 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-void main()
+int main()
 {
     int valorMaximo, valorEscolhido, valorInserido, valorErro;
     int pontuacao = 100;
     bool valorEcontrado = false;
 
-    //system("cls");
-    system("clear");
     printf("Olá, bem vindo, você e capaz de adivinhar o numero que estou pensando?\n");
     printf("Eu posso escolher um numero Natual de 0 a ");
     scanf("%d", &valorMaximo);
@@ -46,4 +44,6 @@ void main()
     } while (!valorEcontrado);
     
     printf("Parabéns voce acertou, o valor era %d e voce ficou com %d pontos de 100.\n\n", valorEscolhido, pontuacao);
+
+    return 0;
 }

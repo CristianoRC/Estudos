@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-void main()
+int main()
 {
     int valorMaximo = 100;
     int valorMinimo = 0;
@@ -11,8 +11,6 @@ void main()
     char resposta = ' ';
     bool valorEcontrado = false;
 
-    //system("cls");
-    system("clear");
     printf("Olá, bem vindo, eu sou capaz de adivinhar o numero que voce esta pensando!\n");
     printf("Pense em um numero Natual de 0 a 100.\n\n\n");
 
@@ -44,4 +42,6 @@ void main()
 
     printf("Encontrei! o valor que você estava pensando era o %d.\n", valorPergunta);
     printf("Foram %d tentativas para chegar nesse valor.\n\n", tentaivas);
+
+    return 0;
 }
