@@ -1,33 +1,32 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <stdbool.h>
 
 int main()
 {
     int valorMaximo = 100;
     int valorMinimo = 0;
-    int valorPergunta = (valorMaximo - valorMinimo) / 2;
+    int valorPergunta = 0;
     int tentaivas = 0;
     char resposta = ' ';
     bool valorEcontrado = false;
 
     printf("Olá, bem vindo, eu sou capaz de adivinhar o numero que voce esta pensando!\n");
-    printf("Pense em um numero Natual de 0 a 100.\n\n\n");
+    printf("Pense em um numero Natual de 0 a 100.\n\n");
 
     do
     {
+        valorPergunta = valorMinimo + ((valorMaximo - valorMinimo) / 2);
+
         printf("\nO valor que esta pensando e >, < ou = a %d? ", valorPergunta);
         scanf(" %c", &resposta);
 
         switch (resposta)
         {
         case '>':
-            valorMinimo = ++valorPergunta;
-            valorPergunta = valorMinimo + ((valorMaximo - valorMinimo) / 2);
+            valorMinimo = valorPergunta + 1;
             break;
         case '<':
-            valorMaximo = --valorPergunta;
-            valorPergunta = valorMaximo - ((valorMaximo - valorMinimo) / 2);
+            valorMaximo = valorPergunta - 1;
             break;
         case '=':
             valorEcontrado = true;
@@ -36,8 +35,8 @@ int main()
             printf("O caractere \'%c\' e invalido!\n", resposta);
             break;
         }
-
         tentaivas++;
+
     } while (!valorEcontrado);
 
     printf("Encontrei! o valor que você estava pensando era o %d.\n", valorPergunta);
