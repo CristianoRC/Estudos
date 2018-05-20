@@ -17,24 +17,32 @@ int main()
     {
         valorPergunta = valorMinimo + ((valorMaximo - valorMinimo) / 2);
 
-        printf("\nO valor que esta pensando e >, < ou = a %d? ", valorPergunta);
-        scanf(" %c", &resposta);
-
-        switch (resposta)
+        if (valorMaximo != valorMinimo)
         {
-        case '>':
-            valorMinimo = valorPergunta + 1;
-            break;
-        case '<':
-            valorMaximo = valorPergunta - 1;
-            break;
-        case '=':
-            valorEcontrado = true;
-            break;
-        default:
-            printf("O caractere \'%c\' e invalido!\n", resposta);
-            break;
+            printf("\nO valor que esta pensando e >, < ou = a %d? ", valorPergunta);
+            scanf(" %c", &resposta);
+
+            switch (resposta)
+            {
+            case '>':
+                valorMinimo = valorPergunta + 1;
+                break;
+            case '<':
+                valorMaximo = valorPergunta - 1;
+                break;
+            case '=':
+                valorEcontrado = true;
+                break;
+            default:
+                printf("O caractere \'%c\' e invalido!\n", resposta);
+                break;
+            }
         }
+        else
+        {
+            valorEcontrado = true;
+        }
+
         tentaivas++;
 
     } while (!valorEcontrado);
