@@ -6,7 +6,7 @@ int main()
     int valorMaximo = 100;
     int valorMinimo = 0;
     int valorPergunta = 0;
-    int tentaivas = 0;
+    int tentativas = 0;
     char resposta = ' ';
     bool valorEcontrado = false;
 
@@ -43,12 +43,12 @@ int main()
             valorEcontrado = true;
         }
 
-        tentaivas++;
+        tentativas++;
 
     } while (!valorEcontrado);
 
     printf("Encontrei! o valor que você estava pensando era o %d.\n", valorPergunta);
-    printf("Foram %d tentativas para chegar nesse valor.\n\n", tentaivas);
+    printf("Foram %d tentativas para chegar nesse valor.\n\n", tentativas);
 
     return 0;
 }
