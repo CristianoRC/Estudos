@@ -1,0 +1,11 @@
+/home/cristiano/Projetos/Estudos/AulasMongoDB/bin/Debug/netcoreapp2.0/AulasMongoDB.deps.json
+/home/cristiano/Projetos/Estudos/AulasMongoDB/bin/Debug/netcoreapp2.0/AulasMongoDB.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/AulasMongoDB/bin/Debug/netcoreapp2.0/AulasMongoDB.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/AulasMongoDB/bin/Debug/netcoreapp2.0/AulasMongoDB.dll
+/home/cristiano/Projetos/Estudos/AulasMongoDB/bin/Debug/netcoreapp2.0/AulasMongoDB.pdb
+/home/cristiano/Projetos/Estudos/AulasMongoDB/obj/Debug/netcoreapp2.0/AulasMongoDB.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/Estudos/AulasMongoDB/obj/Debug/netcoreapp2.0/AulasMongoDB.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/AulasMongoDB/obj/Debug/netcoreapp2.0/AulasMongoDB.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/AulasMongoDB/obj/Debug/netcoreapp2.0/AulasMongoDB.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/AulasMongoDB/obj/Debug/netcoreapp2.0/AulasMongoDB.dll
+/home/cristiano/Projetos/Estudos/AulasMongoDB/obj/Debug/netcoreapp2.0/AulasMongoDB.pdb
