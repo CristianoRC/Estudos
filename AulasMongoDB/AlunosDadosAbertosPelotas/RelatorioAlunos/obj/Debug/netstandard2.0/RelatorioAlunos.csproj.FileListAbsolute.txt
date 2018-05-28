@@ -1,0 +1,9 @@
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/bin/Debug/netstandard2.0/RelatorioAlunos.deps.json
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/bin/Debug/netstandard2.0/RelatorioAlunos.dll
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/bin/Debug/netstandard2.0/RelatorioAlunos.pdb
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.AssemblyInfo.cs
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.dll
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.pdb
