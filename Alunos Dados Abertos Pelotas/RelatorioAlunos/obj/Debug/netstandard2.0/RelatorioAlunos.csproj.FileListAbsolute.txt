@@ -1,0 +1,18 @@
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/bin/Debug/netstandard2.0/RelatorioAlunos.deps.json
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/bin/Debug/netstandard2.0/RelatorioAlunos.dll
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/bin/Debug/netstandard2.0/RelatorioAlunos.pdb
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.AssemblyInfo.cs
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.dll
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.pdb
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos/bin/Debug/netstandard2.0/RelatorioAlunos.deps.json
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos/bin/Debug/netstandard2.0/RelatorioAlunos.dll
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos/bin/Debug/netstandard2.0/RelatorioAlunos.pdb
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.dll
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos/obj/Debug/netstandard2.0/RelatorioAlunos.pdb

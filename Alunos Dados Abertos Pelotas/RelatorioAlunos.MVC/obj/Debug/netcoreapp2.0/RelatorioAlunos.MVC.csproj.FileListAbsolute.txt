@@ -1,0 +1,28 @@
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.deps.json
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.runtimeconfig.json
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.runtimeconfig.dev.json
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.dll
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.pdb
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.dll
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.pdb
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.AssemblyInfo.cs
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.csproj.CopyComplete
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.dll
+/home/cristiano/Projetos/AlunosDadosAbertosPelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.pdb
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.deps.json
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.dll
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.MVC.pdb
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.dll
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/bin/Debug/netcoreapp2.0/RelatorioAlunos.pdb
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.csproj.CopyComplete
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.dll
+/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/RelatorioAlunos.MVC/obj/Debug/netcoreapp2.0/RelatorioAlunos.MVC.pdb
