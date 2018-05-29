@@ -1,0 +1,13 @@
+@{ ViewData["Title"] = @Model.NomeEscola; }
+
+<div class="container" style="padding-top: 60px;">
+    <div class="panel panel-default">
+        <div class="panel-heading">Informaçẽos da escola</div>
+
+        <ul class="list-group">
+            <li class="list-group-item">Nome: @Model.NomeEscola</li>
+            <li class="list-group-item">Endereço: @Model.Endereco</li>
+            <li class="list-group-item">Bairro: @Model.Bairro</li>
+        </ul>
+    </div>
+</div>

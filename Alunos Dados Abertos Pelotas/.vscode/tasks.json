@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/RelatorioAlunos.MVC/RelatorioAlunos.MVC.csproj"
+                "${workspaceFolder}/Relatorio.MVC/Relatorio.MVC.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

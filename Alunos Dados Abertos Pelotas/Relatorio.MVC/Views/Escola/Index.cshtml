@@ -1,0 +1,53 @@
+@{ ViewData["Title"] = "Escolas"; }
+
+<h1 class="titulo text-center">Informações de escolas da rede do município de Pelotas</h1>
+
+
+<div class="container" style="padding-top:20px;padding-bottom:40px;">
+    <form class="form-horizontal" asp-controller="Escola" asp-action="Informacoes" method="get">
+        <fieldset>
+            <!-- Search input-->
+            <div class="form-group">
+                <div class="row text-rigth">
+                    <label class="col-md-4 control-label" for="searchinput">Mais informações sobre a escola</label>
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <select class="form-control" id="sel1" name="Escola">
+                                @foreach (var item in @Model)
+                                {
+                                    <option>@item.NomeEscola</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <button class="btn btn-primary">Buscar</button>
+                    </div>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div>
+
+<div class="container">
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nome</th>
+                <th>Endereço</th>
+                <th>Bairro</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{int contador = 1; @foreach (var item in @Model) {
+            <tr class="text-left">
+                <td>@contador</td>
+                <td>@item.NomeEscola</td>
+                <td>@item.Endereco</td>
+                <td>@item.Bairro</td>
+            </tr>
+            contador++; } }
+        </tbody>
+    </table>
+</div>
