@@ -1,0 +1,11 @@
+/home/cristiano/Projetos/Estudos/C#/RavenDB/obj/Debug/netcoreapp2.0/AulasRavenDB.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/Estudos/C#/RavenDB/obj/Debug/netcoreapp2.0/AulasRavenDB.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/C#/RavenDB/obj/Debug/netcoreapp2.0/AulasRavenDB.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/C#/RavenDB/obj/Debug/netcoreapp2.0/AulasRavenDB.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/C#/RavenDB/bin/Debug/netcoreapp2.0/AulasRavenDB.deps.json
+/home/cristiano/Projetos/Estudos/C#/RavenDB/bin/Debug/netcoreapp2.0/AulasRavenDB.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/C#/RavenDB/bin/Debug/netcoreapp2.0/AulasRavenDB.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/C#/RavenDB/bin/Debug/netcoreapp2.0/AulasRavenDB.dll
+/home/cristiano/Projetos/Estudos/C#/RavenDB/bin/Debug/netcoreapp2.0/AulasRavenDB.pdb
+/home/cristiano/Projetos/Estudos/C#/RavenDB/obj/Debug/netcoreapp2.0/AulasRavenDB.dll
+/home/cristiano/Projetos/Estudos/C#/RavenDB/obj/Debug/netcoreapp2.0/AulasRavenDB.pdb
