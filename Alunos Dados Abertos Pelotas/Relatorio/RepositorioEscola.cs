@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
-using MongoDB.Driver;
+using Raven.Client.Documents;
+using Raven.Client.Documents.Session;
 
 namespace Relatorio
 {
@@ -8,28 +9,51 @@ namespace Relatorio
     {
         public RepositorioEscola()
         {
-            var cliente = new MongoClient(@"mongodb://AlunosPelotas:Pelotas20*18@ds016298.mlab.com:16298/estudos");
-            var dataBase = cliente.GetDatabase("estudos");
-            escolas = dataBase.GetCollection<Escola>("EscolasPelotas");
-            alunos = dataBase.GetCollection<Escola>("AlunosPelotas");
+            bancoDeDados = new DocumentStore()
+            {
+                Urls = new[] { "http://127.0.0.1:8080/" },
+                Database = "estudos"
+            }.Initialize();
         }
 
-        IMongoCollection<Escola> escolas;
-        IMongoCollection<Escola> alunos;
+        IDocumentStore bancoDeDados;
 
         public Escola Buscar(string nome)
         {
-            return escolas.Find(escolas => escolas.NomeEscola.Equals(nome)).FirstOrDefault();
+            using (var sessao = bancoDeDados.OpenSession(new SessionOptions { }))
+            {
+                return sessao.Query<Escola>()
+                .Where(Escola => Escola.Nome == nome)
+                .FirstOrDefault();
+            }
         }
 
         public IEnumerable<Escola> Listar()
         {
-            return escolas.Find(x => true).ToList().OrderBy(x => x.Bairro);
+            using (var sessao = bancoDeDados.OpenSession())
+            {
+                return sessao.Query<Escola>().ToList();
+            }
         }
 
         public long ObterNumeroDeEscolas()
         {
-            return escolas.Find(x => true).Count();
+            using (var sessao = bancoDeDados.OpenSession())
+            {
+                return sessao.Query<Escola>().Count();
+            }
+        }
+
+        public long ObterNumeroDeAlunos(string escola)
+        {
+            using (var sessao = bancoDeDados.OpenSession())
+            {
+                escola = escola.ToUpper();
+
+                return sessao.Query<Aluno>()
+                .Where(aluno => aluno.Escola == escola)
+                .Count();
+            }
         }
     }
 }

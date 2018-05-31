@@ -1,5 +1,6 @@
-using MongoDB.Bson;
-using MongoDB.Driver;
+using Raven.Client.Documents;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Relatorio
 {
@@ -8,56 +9,87 @@ namespace Relatorio
 
         public RepositorioAluno()
         {
-            var cliente = new MongoClient(@"mongodb://AlunosPelotas:Pelotas20*18@ds016298.mlab.com:16298/estudos");
-            var dataBase = cliente.GetDatabase("estudos");
-            alunos = dataBase.GetCollection<Aluno>("AlunosPelotas");
+            bancoDeDados = new DocumentStore()
+            {
+                Urls = new[] { "http://127.0.0.1:8080" },
+                Database = "estudos"
+            };
+            bancoDeDados.Initialize();
         }
 
-        private IMongoCollection<Aluno> alunos { get; set; }
+        DocumentStore bancoDeDados;
 
         public Aluno Buscar(int matricula)
         {
-            return alunos.Find(x => x.Matricula.Equals(matricula)).FirstOrDefault();
+            using (var sessao = bancoDeDados.OpenSession())
+            {
+                return sessao.Query<Aluno>()
+                .Where(aluno => aluno.Matricula == matricula)
+                .FirstOrDefault();
+            }
         }
 
         public long ObterNumeroDeAlunosSexo(ESexo sexo)
         {
-            if (sexo.Equals(ESexo.Feminino))
+            using (var sessao = bancoDeDados.OpenSession())
             {
-                return alunos.Find(aluno => aluno.Sexo.Equals(ESexo.Feminino)).Count();
-            }
-            else if (sexo.Equals(ESexo.Masculino))
-            {
-                return alunos.Find(aluno => aluno.Sexo.Equals(ESexo.Masculino)).Count();
-            }
+                if (sexo.Equals(ESexo.Outro))
+                {
+                    return sessao.Query<Aluno>()
+                    .Where(aluno => aluno.Sexo != ESexo.Masculino
+                            && aluno.Sexo != ESexo.Feminino)
+                    .ToList()
+                    .Count();
+                }
 
-            return alunos.Find(aluno => aluno.Sexo != ESexo.Masculino.ToString() && aluno.Sexo != ESexo.Feminino.ToString()).Count();
+                return sessao.Query<Aluno>()
+                .Where(aluno => aluno.Sexo == sexo)
+                .ToList()
+                .Count();
+            }
         }
 
 
         public long ObterNumeroDeAlunosBairro(string bairro)
         {
-            return alunos.Find(aluno => aluno.Bairro.Equals(bairro.ToUpper())).Count();
-        }
-
-        public long ObterNumeroDeAlunosEscola(string escola)
-        {
-            return alunos.Find(aluno => aluno.Escola.Equals(escola.ToUpper())).Count();
+            using (var sessao = bancoDeDados.OpenSession())
+            {
+                return sessao.Query<Aluno>()
+                .Where(aluno => aluno.Bairro == bairro)
+                .ToList()
+                .Count();
+            }
         }
 
         public long ObterNumeroDeAlunosComNecessidades()
         {
-            return alunos.Find(aluno => aluno.NecessidadesEducacionaisEspeciais != "SEM NECESSIDADES ESPECIAIS").Count();
+            using (var sessao = bancoDeDados.OpenSession())
+            {
+                return sessao.Query<Aluno>()
+                .Where(aluno => aluno.NecessidadesEducacionaisEspeciais != "SEM NECESSIDADES ESPECIAIS")
+                .ToList()
+                .Count();
+            }
+
         }
 
         public long ObterNumeroDeAlunos()
         {
-            return alunos.Find(x => true).Count();
+            using (var sessao = bancoDeDados.OpenSession())
+            {
+                return sessao.Query<Aluno>().ToList().Count();
+            }
         }
 
         public long ObterNumeroDeAlunosFormandos()
         {
-            return alunos.Find(aluno => aluno.Serie.Contains("8ª") || aluno.Serie.Contains("9º")).Count();
+            using (var sessao = bancoDeDados.OpenSession())
+            {
+                return sessao.Query<Aluno>()
+                .Search(Aluno => Aluno.Serie, "8ª")
+                .Search(Aluno => Aluno.Serie, "9º")
+                .Count();
+            }
         }
     }
 }

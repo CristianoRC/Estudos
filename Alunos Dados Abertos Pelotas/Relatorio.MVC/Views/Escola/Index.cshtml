@@ -15,7 +15,7 @@
                             <select class="form-control" id="sel1" name="Escola">
                                 @foreach (var item in @Model)
                                 {
-                                    <option>@item.NomeEscola</option>
+                                    <option>@item.Nome</option>
                                 }
                             </select>
                         </div>
@@ -43,7 +43,7 @@
             @{int contador = 1; @foreach (var item in @Model) {
             <tr class="text-left">
                 <td>@contador</td>
-                <td>@item.NomeEscola</td>
+                <td>@item.Nome</td>
                 <td>@item.Endereco</td>
                 <td>@item.Bairro</td>
             </tr>

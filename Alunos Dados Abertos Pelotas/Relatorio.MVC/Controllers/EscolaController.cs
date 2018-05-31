@@ -12,6 +12,7 @@ namespace RelatorioAlunos.MVC.Controllers
 
         public IActionResult Informacoes([FromQuery]string Escola, RepositorioEscola repositorio)
         {
+            ViewData["numeroDeAlunos"] = repositorio.ObterNumeroDeAlunos(Escola);
             return View(repositorio.Buscar(Escola));
         }
     }
