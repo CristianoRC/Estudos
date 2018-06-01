@@ -1,0 +1,55 @@
+﻿@{ ViewData["Title"] = "Início"; } 
+
+@model Mensagem
+
+<div class="container">
+    <div class="row">
+        <div class="center">
+            <div class="row form-content" id="FormContent">
+                <form asp-controller="Home" asp-action="Cadastrar" method="POST">
+                    <div class="col m6 s12">
+                        <div class="input-field">
+                            <input type="text" asp-for="Nome" />
+                            <label for="Nome">Nome:</label>
+                        </div>
+                    </div>
+                    <div class="col m6 s12">
+                        <div class="input-field">
+                            <input type="text" asp-for="Email" />
+                            <label for="Email">Email:</label>
+                        </div>
+                    </div>
+                    <div class="col m6 s12">
+                        <div class="input-field">
+                            <input type="tel" asp-for="Telefone" />
+                            <label for="Telefone">Telefone:</label>
+                        </div>
+                    </div>
+                    <div class="col m6 s12">
+                        <div class="input-field">
+                            <input type="text" asp-for="Motivo" />
+                            <label for="Motivo">Motivo:</label>
+                        </div>
+                    </div>
+                    <div class="col s12">
+                        <div class="input-field">
+                            <textarea rows="3" class="materialize-textarea" asp-for="Conteudo"></textarea>
+                            <label for="Conteudo">Mensagem</label>
+                        </div>
+                    </div>
+                    <div class="col s12">
+                        <button type="submit" class="right btn light-blue darken-3">ENVIAR</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="row error-content">
+                <div class="col 12" id="ErrorContent">
+                </div>
+            </div>
+            <div class="row success-content" id="MsgContactContent">
+
+            </div>
+        </div>
+    </div>
+</div>

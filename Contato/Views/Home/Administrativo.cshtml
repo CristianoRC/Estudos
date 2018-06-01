@@ -1,0 +1,39 @@
+@{ViewData["Title"] = "Área adimistrativa";}
+
+<div class="container">
+    <div class="row">
+
+        <table class="bordered striped highlight centered responsive-table">
+            <thead>
+                <tr>
+                    <th>Status</th>
+                    <th>Nome</th>
+                    <th>Email</th>
+                    <th>Motivo</th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @{ @foreach (var item in @Model) {
+                <tr>
+                    @if((bool)@item.Verificada)
+                    {
+                        <td><i style="color:#0091ea;" class="material-icons">check</i></td>
+                    }
+                    else
+                    {
+                        <td><i style="color:#0091ea;" class="material-icons">new_releases</i></td>
+                    }
+                    <td>@item.Nome</td>
+                    <td>@item.Email</td>
+                    <td>@item.Motivo</td>
+                    <td>
+                        <a asp-controller="Home" asp-action="Informacoes" asp-route-id="@item.Id" class="btn-floating btn-small waves-effect waves-light blue"><i class="material-icons">import_contacts</i></a>
+                    </td>
+                </tr>
+                } }
+            </tbody>
+        </table>
+    </div>
+</div>

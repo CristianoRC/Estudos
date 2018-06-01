@@ -1,0 +1,61 @@
+@{ViewData["Title"] = @Model.Nome;}
+
+
+<div class="container">
+    <div class="row">
+        <ul class="collection with-header">
+            <li class="collection-header center light-blue accent-4">
+                <h5 style="color:white">Id - @Model.Id</h5>
+                <a asp-action="Deletar" asp-controller="Home" asp-route-id=@Model.Id class="btn-floating btn-large waves-effect waves-light right"><i class="material-icons">delete</i></a>
+            </li>
+            <li class="collection-item"><b>Nome:</b> @Model.Nome</li>
+            <li class="collection-item"><b>Assunto:</b> @Model.Motivo</li>
+            <li class="collection-item"><b>Email:</b> @Model.Email</li>
+            <li class="collection-item"><b>Telefone:</b> @Model.Telefone</li>
+            <li class="collection-item"><b>Menssagem:</b> @Model.Conteudo</li>
+            <li class="collection-item">
+                <p>
+                    @if((bool)@Model.Verificada) 
+                    {
+                        <input type="checkbox" id="Verificada" name="Verificada" checked="" /> 
+                    } 
+                    else 
+                    {
+                        <input type="checkbox" id="Verificada" name="Verificada" /> 
+                    }
+                    <label for="Verificada">Mensagem lida</label>
+                </p>
+            </li>
+        </ul>
+        <div class="row right">
+            <a asp-action="Administrativo" class="waves-effect waves-light btn light-blue accent-4"><i class="material-icons left">keyboard_return</i>Voltar</a>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    var checkStatus = document.getElementById("Verificada");
+    var _urlBase = `@Url.Action("AtualizarStatus")/@Model.Id`;
+    
+    function requisicao(status)
+    {
+        var urlComParametro = `${_urlBase}/${status}`;
+        console.log(urlComParametro);
+
+        var request = new XMLHttpRequest();
+        request.open('PUT',urlComParametro);
+        request.send();
+    }
+
+    checkStatus.addEventListener('change', function() {
+        if (checkStatus.checked) {
+            Materialize.toast(`A mensagem foi marcada com lida`, 2500);
+            requisicao(true);
+        } else {
+            Materialize.toast(`A mensagem foi marcada com não lida`, 2500);
+            requisicao(false);
+        }
+    });
+
+</script>

@@ -1,0 +1,11 @@
+/home/cristiano/Desktop/Contato/bin/Debug/netcoreapp2.0/Contato.deps.json
+/home/cristiano/Desktop/Contato/bin/Debug/netcoreapp2.0/Contato.runtimeconfig.json
+/home/cristiano/Desktop/Contato/bin/Debug/netcoreapp2.0/Contato.runtimeconfig.dev.json
+/home/cristiano/Desktop/Contato/bin/Debug/netcoreapp2.0/Contato.dll
+/home/cristiano/Desktop/Contato/bin/Debug/netcoreapp2.0/Contato.pdb
+/home/cristiano/Desktop/Contato/obj/Debug/netcoreapp2.0/Contato.csprojResolveAssemblyReference.cache
+/home/cristiano/Desktop/Contato/obj/Debug/netcoreapp2.0/Contato.csproj.CoreCompileInputs.cache
+/home/cristiano/Desktop/Contato/obj/Debug/netcoreapp2.0/Contato.AssemblyInfoInputs.cache
+/home/cristiano/Desktop/Contato/obj/Debug/netcoreapp2.0/Contato.AssemblyInfo.cs
+/home/cristiano/Desktop/Contato/obj/Debug/netcoreapp2.0/Contato.dll
+/home/cristiano/Desktop/Contato/obj/Debug/netcoreapp2.0/Contato.pdb
