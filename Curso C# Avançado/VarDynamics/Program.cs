@@ -11,9 +11,11 @@ namespace VarDynamics
                 dynamic - tempo de execução
              */
 
-            dynamic d1 = new { Nome = "Cristiano" };
+            dynamic pessoa = new { Nome = "Cristiano",Sobrenome = "Raffi Cunha", Idade = 19 };
 
-            Console.WriteLine(d1.Nome);
+            Console.WriteLine(pessoa.Nome);
+            Console.WriteLine(pessoa.Sobrenome);
+            Console.WriteLine(pessoa.Idade);
             /*
             * Console.WriteLine(d1.Email);
             *   
