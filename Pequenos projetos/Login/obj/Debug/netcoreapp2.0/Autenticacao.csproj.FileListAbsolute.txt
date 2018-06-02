@@ -1,0 +1,11 @@
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/bin/Debug/netcoreapp2.0/Autenticacao.deps.json
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/bin/Debug/netcoreapp2.0/Autenticacao.runtimeconfig.json
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/bin/Debug/netcoreapp2.0/Autenticacao.runtimeconfig.dev.json
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/bin/Debug/netcoreapp2.0/Autenticacao.dll
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/bin/Debug/netcoreapp2.0/Autenticacao.pdb
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/obj/Debug/netcoreapp2.0/Autenticacao.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/obj/Debug/netcoreapp2.0/Autenticacao.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/obj/Debug/netcoreapp2.0/Autenticacao.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/obj/Debug/netcoreapp2.0/Autenticacao.AssemblyInfo.cs
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/obj/Debug/netcoreapp2.0/Autenticacao.dll
+/home/cristiano/Projetos/Estudos/Pequenos projetos/Autenticacao/obj/Debug/netcoreapp2.0/Autenticacao.pdb

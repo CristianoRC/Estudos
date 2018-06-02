@@ -1,0 +1,41 @@
+﻿@{ ViewData["Title"] = "Cadastro"; }
+
+<div class="container">
+    <div class="row">
+        <div class="col s12 m12">
+            <div class="card-panel">
+                <form asp-action="Cadastrar" method="Post">
+                    <div class="row center-align">
+                        <img width="150" src="https://image.flaticon.com/icons/svg/908/908164.svg">
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s12">
+                            <input name="nome" placeholder="Nome Sobrenome" id="nome" type="text" class="validate">
+                            <label for="nome">Nome Completo</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s12">
+                            <input name="email" placeholder="usuario@exemplo.com" id="email" type="email" class="validate">
+                            <label for="email">Email</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s12">
+                            <input name="senha" placeholder="******" id="senha" type="password" class="validate">
+                            <label for="senha">Senha</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col offset-m8 m4">
+                            <button class="light-blue accent-4 btn waves-effect waves-light right" type="submit" name="action">
+                                Cadastrar
+                            </button>
+                        </div>
+                    </div>
+            </div>
+            </form>
+        </div>
+    </div>
+</div>
+</div>

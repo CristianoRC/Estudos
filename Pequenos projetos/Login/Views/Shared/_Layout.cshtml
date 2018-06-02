@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Autenticacao</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+</head>
+
+<body>
+    <nav class="light-blue accent-4">
+        <div class="nav-wrapper">
+            <a href="#" class="brand-logo center ">@ViewData["Title"]</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a asp-action="Administrativo">Área administrativa</a></li>
+                <li><a asp-action="Cadastro">Cadastro</a></li>
+                <li><a asp-action="Login">Login</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            @RenderBody()
+        </div>
+    </main>
+
+
+    <footer class="page-footer light-blue accent-3">
+        <div class="footer-copyright">
+            <div class="container">
+                ©
+                <cache>@DateTime.Now.Year</cache> - Autenticação
+            </div>
+        </div>
+    </footer>
+    
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+
+</html>
