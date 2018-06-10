@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Aula - 7</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+</head>
+
+<body>
+    <div id="app">
+        <h1>{{title}}</h1>
+        <h2>Contador: {{contador}}</h2>
+        <button v-on:click="contador++">Somar 1</button>
+        <br>
+        <br>
+        <button @click="contador--">Subtrair 1</button>
+        <!-- Pode mudar v-on: por @ -->
+        <br>
+        <br>
+        <button v-on:click="alertar()">Chamar método</button>
+    </div>
+
+    <script>
+        var app = new Vue({
+            el: "#app",
+            data: {
+                title: "Aula 7 v-on ou @ e métodos - click.prevent.stop para formulários",
+                contador: 0
+            },
+            methods: {
+                alertar() {
+                    alert('Função VueJS');
+                },
+            }
+        });
+    </script>
+</body>
+
+</html>

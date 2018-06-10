@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Aula - 6</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+        crossorigin="anonymous">
+
+
+</head>
+
+<body>
+    <div id="app">
+        <h1 :style="estiloTitulo">{{titulo}}</h1>
+        <h2 :style="estiloSubtitulo">{{subtitulo}}</h2>
+        <button :class="btnCancelar">Cancelar</button>
+        <button :class="btnEnviar">Enviar</button>
+    </div>
+
+    <script>
+        var app = new Vue({
+            el: "#app",
+            data: {
+                titulo: "Aula 6 - Bind classe e style",
+                subtitulo: "Podemos usar o bind como um objeto, array de objetos ou string",
+                btnEnviar: {
+                    "btn": true,
+                    "btn-outline-primary": true,
+                    "btn-sm": true
+                },
+                btnCancelar: [
+                    'btn',
+                    'btn-outline-danger',
+                    'btn-lg'
+                ],
+                estiloTitulo: "font-size: 50px;color: green",
+                estiloSubtitulo:{
+                    "font-size":"25px",
+                    "color":"red"
+                }
+            }
+        });
+    </script>
+</body>
+
+</html>

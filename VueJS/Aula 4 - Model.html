@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Aula - 4</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+
+<body>
+
+    <div class="app">
+        <h1>Nome:{{pessoa.nome}}, idade:{{pessoa.idade}}, sexo:{{pessoa.sexo}}</h1>
+        <br> Nome:
+        <input type="text" v-model="pessoa.nome">
+        <br>
+        <br> Idade:
+        <input type="text" v-model="pessoa.idade">
+        <br>
+        <br>
+        Sexo:
+        <select v-model="pessoa.sexo">
+            <!-- Lembrar de usar o value para pegar os valores dos campos -->
+            <option value="masculino">Masculino</option>
+            <option value="feminino">Feminino</option>
+        </select>
+    </div>
+
+    <script>
+        var app = new Vue({
+            el: ".app",
+            data: {
+                pessoa: [
+                    nome = "",
+                    idade = 0,
+                    sexo = "não informado"
+                ]
+            }
+        });
+    </script>
+</body>
+
+</html>

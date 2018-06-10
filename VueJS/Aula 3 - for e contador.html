@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Aula - 3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+
+<body>
+
+    <div id="app">
+        <div v-for="item in linguagens" id="Linguagens">
+            <h1>{{item.Nome}}</h1>
+        </div>
+
+        <hr>
+        
+        <!-- Com Index -->
+        <div v-for="(item, index) in linguagens">
+            <h1>{{index+1}}ª - {{item.Nome}}</h1>
+        </div>
+
+    </div>
+
+    <script>
+        var app = new Vue({
+            el: "#app",
+            data: {
+                linguagens: [
+                    { Nome: "C#" },
+                    { Nome: "Java Script" },
+                    { Nome: "Java" },
+                    { Nome: "VB" },
+                    { Nome: "Go" },
+                    { Nome: "PHP" }
+                ]
+            }
+        });
+    </script>
+</body>
+
+</html>

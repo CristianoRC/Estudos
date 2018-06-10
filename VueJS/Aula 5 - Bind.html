@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Aula - 5</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+
+<body>
+    <div id="app">
+
+
+        <h1>{{titulo}}</h1>
+        <h2>{{subtitulo}}</h2>
+        <br> URL:
+        <input type="url" v-model="urlImg">
+        <img v-bind:src="urlImg" :alt="descricao">
+        <br>
+
+    </div>
+    <script>
+        var app = new Vue({
+            el: "#app",
+            data: {
+                titulo: "Aula 5 - Bind",
+                subtitulo: "O bind pode ser usado em qualer propriedade HTML EX: v-bind:propriedade ou :propriedade",
+                urlImg: "https://cdn-images-1.medium.com/max/900/1*OrjCKmou1jT4It5so5gvOA.jpeg",
+                descricao: "Imagem VueJS"
+            }
+        });
+    </script>
+</body>
+
+</html>
