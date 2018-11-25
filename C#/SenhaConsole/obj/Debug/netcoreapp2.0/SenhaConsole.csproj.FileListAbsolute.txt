@@ -18,3 +18,14 @@
 /home/cristiano/Projetos/Estudos/C#/SenhaConsole/obj/Debug/netcoreapp2.0/SenhaConsole.AssemblyInfo.cs
 /home/cristiano/Projetos/Estudos/C#/SenhaConsole/obj/Debug/netcoreapp2.0/SenhaConsole.dll
 /home/cristiano/Projetos/Estudos/C#/SenhaConsole/obj/Debug/netcoreapp2.0/SenhaConsole.pdb
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/bin/Debug/netcoreapp2.0/SenhaConsole.deps.json
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/bin/Debug/netcoreapp2.0/SenhaConsole.runtimeconfig.json
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/bin/Debug/netcoreapp2.0/SenhaConsole.runtimeconfig.dev.json
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/bin/Debug/netcoreapp2.0/SenhaConsole.dll
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/bin/Debug/netcoreapp2.0/SenhaConsole.pdb
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/obj/Debug/netcoreapp2.0/SenhaConsole.csprojAssemblyReference.cache
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/obj/Debug/netcoreapp2.0/SenhaConsole.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/obj/Debug/netcoreapp2.0/SenhaConsole.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/obj/Debug/netcoreapp2.0/SenhaConsole.AssemblyInfo.cs
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/obj/Debug/netcoreapp2.0/SenhaConsole.dll
+/home/cristiano/Projetos/Pessoal/Estudos/C#/SenhaConsole/obj/Debug/netcoreapp2.0/SenhaConsole.pdb
