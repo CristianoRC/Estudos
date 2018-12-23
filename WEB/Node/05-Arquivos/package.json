@@ -4,9 +4,13 @@
   "description": "",
   "main": "CriarArquivo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha",
     "dev": "node CriarArquivo.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "util": "^0.11.1"
+  }
 }
