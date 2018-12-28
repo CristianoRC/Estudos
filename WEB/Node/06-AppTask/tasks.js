@@ -10,8 +10,12 @@ class task {
     async showAllTasks() {
         let tasks = await this.repository.getAllTasks();
 
-        tasks.forEach(element => {
-            console.log(element)
+        tasks.forEach(task => {
+            console.log(`Id: ${task.id}`)
+            console.log(`Título: ${task.title}`)
+            console.log(`Descrição: ${task.description}`)
+            task.finished ? console.log("Status: Tarefa finalizada.") : console.log("Tarefa em andamento");
+            console.log("==================================================")
         });
     }
 
@@ -22,14 +26,41 @@ class task {
         task.finished = false
 
         this.repository.createTask(task);
+
+        let createNewTask = await readLine("Você deseja criar outra tarefa (S/N)? ");
+        if (createNewTask.toLowerCase() == 's')
+            await this.createTask();
+        else
+            console.log("=================== Até mais ===================")
+        //TODO: Voltar para a tela inicial
     }
 
-    async setStatusDone(taskId) {
-        console.log("Mudando status da task ...")
+    async setStatusDone() {
+        await this.showAllTasks();
+        await readLine("\n\nCopie o id da tarefa que você quer finalizar e pressione enter.")
+        await this.repository.finishTask(await readLine("Digite o id da tarefa selecionada: "))
+
+
+        let updateNewTask = await readLine("Você deseja finalizar outra tarefa (S/N)? ");
+        if (updateNewTask.toLowerCase() == 's')
+            await this.setStatusDone();
+        else
+            console.log("=================== Até mais ===================")
+        //TODO: Voltar para a tela inicial
     }
 
     async deleteTask(taskId) {
-        console.log("Deletando uma task ...")
+        await this.showAllTasks();
+        await readLine("\n\nCopie o id da tarefa que você quer deletar e pressione enter.")
+        await this.repository.deleteTask(await readLine("Digite o id da tarefa selecionada: "))
+
+
+        let updateNewTask = await readLine("Você deseja finalizar outra tarefa (S/N)? ");
+        if (updateNewTask.toLowerCase() == 's')
+            await this.deleteTask();
+        else
+            console.log("=================== Até mais ===================")
+        //TODO: Voltar para a tela inicial    }
     }
 }
 

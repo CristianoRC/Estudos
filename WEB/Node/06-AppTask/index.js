@@ -33,3 +33,5 @@ function showMenu() {
 }
 
 main();
+
+module.exports = main
