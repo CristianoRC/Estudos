@@ -1,10 +1,17 @@
 const readLine = require('./readLineConsole')
 const tasks = require('./tasks')
-
+const commander = require('commander')
 async function main() {
+    commander.version('0.1')
+        .option('-m, --menu [valor]', 'Id da ação que deve ser executada')
+        .parse(process.argv)
 
-    showMenu();
-    let result = await readLine("Escolha uma opção: ")
+    let result = commander.menu;
+
+    if (!result) {
+        showMenu();
+        result = await readLine("Escolha uma opção: ")
+    }
 
     switch (result) {
         case '1':
@@ -20,7 +27,6 @@ async function main() {
             await tasks.deleteTask()
             break;
     }
-
 }
 
 function showMenu() {

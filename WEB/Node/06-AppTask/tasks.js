@@ -1,7 +1,6 @@
 const fileRepository = require('./repositories/file')
 const readLine = require('./readLineConsole')
 
-
 class task {
     constructor() {
         this.repository = fileRepository;
