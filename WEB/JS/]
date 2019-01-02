@@ -1,0 +1,7 @@
+console.log("Uso em array\n")
+let nome = ['Meu','nome','é','Cristiano']
+let ultimoNome = ['Cunha','!']
+let nomeCompleto = [...nome,'Raffi',...ultimoNome]
+
+console.log(nomeCompleto.join(' '))
+console.log("\n===================================\n")
