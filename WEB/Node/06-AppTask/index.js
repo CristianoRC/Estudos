@@ -15,7 +15,7 @@ async function main() {
 
     switch (result) {
         case '1':
-            await tasks.showAllTasks()
+            await tasks.showAllTasks(true)
             break;
         case '2':
             await tasks.createTask();

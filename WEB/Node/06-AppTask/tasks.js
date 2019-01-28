@@ -1,12 +1,13 @@
 const fileRepository = require('./repositories/file')
+const postgresRepository = require('./repositories/postgres')
 const readLine = require('./readLineConsole')
 
 class task {
     constructor() {
-        this.repository = fileRepository;
+        this.repository = new postgresRepository();
     }
 
-    async showAllTasks() {
+    async showAllTasks(closeConnectionAfter) {
         let tasks = await this.repository.getAllTasks();
 
         tasks.forEach(task => {
@@ -15,6 +16,8 @@ class task {
             console.log(`Descrição: ${task.description}`)
             task.finished ? console.log("Status: Tarefa finalizada.") : console.log("Tarefa em andamento");
             console.log("==================================================")
+            if (closeConnectionAfter === true)
+                this.repository.driver.close();
         });
     }
 
@@ -31,6 +34,7 @@ class task {
             await this.createTask();
         else
             console.log("=================== Até mais ===================")
+        this.repository.driver.close();
         //TODO: Voltar para a tela inicial
     }
 
@@ -45,6 +49,7 @@ class task {
             await this.setStatusDone();
         else
             console.log("=================== Até mais ===================")
+        this.repository.driver.close();
         //TODO: Voltar para a tela inicial
     }
 
@@ -59,6 +64,7 @@ class task {
             await this.deleteTask();
         else
             console.log("=================== Até mais ===================")
+        this.repository.driver.close();
         //TODO: Voltar para a tela inicial    }
     }
 }
