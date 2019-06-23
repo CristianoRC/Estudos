@@ -7,3 +7,12 @@
 /home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/Relatorio/obj/Debug/netstandard2.0/Relatorio.AssemblyInfo.cs
 /home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/Relatorio/obj/Debug/netstandard2.0/Relatorio.dll
 /home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/Relatorio/obj/Debug/netstandard2.0/Relatorio.pdb
+/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/bin/Debug/netstandard2.0/Relatorio.deps.json
+/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/bin/Debug/netstandard2.0/Relatorio.dll
+/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/bin/Debug/netstandard2.0/Relatorio.pdb
+/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/obj/Debug/netstandard2.0/Relatorio.csprojAssemblyReference.cache
+/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/obj/Debug/netstandard2.0/Relatorio.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/obj/Debug/netstandard2.0/Relatorio.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/obj/Debug/netstandard2.0/Relatorio.AssemblyInfo.cs
+/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/obj/Debug/netstandard2.0/Relatorio.dll
+/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/obj/Debug/netstandard2.0/Relatorio.pdb

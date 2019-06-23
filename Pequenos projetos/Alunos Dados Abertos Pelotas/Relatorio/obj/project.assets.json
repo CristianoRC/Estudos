@@ -41,7 +41,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.1": {
+      "NETStandard.Library/2.0.3": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -732,14 +732,14 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.1": {
-      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+    "NETStandard.Library/2.0.3": {
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
-      "path": "netstandard.library/2.0.1",
+      "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
-        "build/NETStandard.Library.targets",
         "build/netstandard2.0/NETStandard.Library.targets",
         "build/netstandard2.0/ref/Microsoft.Win32.Primitives.dll",
         "build/netstandard2.0/ref/System.AppContext.dll",
@@ -856,7 +856,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.1.nupkg.sha512",
+        "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -2879,25 +2879,25 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.1",
+      "NETStandard.Library >= 2.0.3",
       "RavenDB.Client >= 4.0.4-patch-40038"
     ]
   },
   "packageFolders": {
     "/home/cristiano/.nuget/packages/": {},
-    "/home/cristiano/.dotnet/sdk/NuGetFallbackFolder": {}
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/Relatorio/Relatorio.csproj",
+      "projectUniqueName": "/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/Relatorio.csproj",
       "projectName": "Relatorio",
-      "projectPath": "/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/Relatorio/Relatorio.csproj",
+      "projectPath": "/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/Relatorio.csproj",
       "packagesPath": "/home/cristiano/.nuget/packages/",
-      "outputPath": "/home/cristiano/Projetos/Estudos/Alunos Dados Abertos Pelotas/Relatorio/obj/",
+      "outputPath": "/home/cristiano/Projetos/Pesoal/Estudos/Pequenos projetos/Alunos Dados Abertos Pelotas/Relatorio/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/home/cristiano/.dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "/home/cristiano/.nuget/NuGet/NuGet.Config"
@@ -2925,7 +2925,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.1, )",
+            "version": "[2.0.3, )",
             "autoReferenced": true
           },
           "RavenDB.Client": {
