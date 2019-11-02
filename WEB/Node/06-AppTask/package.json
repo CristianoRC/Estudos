@@ -14,7 +14,7 @@
     "pg": "^7.8.0",
     "pg-hstore": "^2.3.2",
     "prompt-sync": "^4.1.6",
-    "sequelize": "^4.42.0",
+    "sequelize": "^5.15.1",
     "uuid": "^3.3.2"
   }
 }
